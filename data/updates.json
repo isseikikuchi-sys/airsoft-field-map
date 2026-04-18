@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-18T06:44:38.054Z",
+  "last_updated": "2026-04-18T23:06:40.025Z",
   "updates": {
     "asobiba-akihabara": {
       "field_id": "asobiba-akihabara",
-      "fetched_at": "2026-04-18T06:44:24.030Z",
+      "fetched_at": "2026-04-18T23:06:25.997Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -12,41 +12,577 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 21.5,
-          "tmin": 9.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 24.2,
-          "tmin": 12,
+          "tmax": 24.6,
+          "tmin": 10.8,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 21,
-          "tmin": 11.5,
+          "tmax": 21.7,
+          "tmin": 11.7,
           "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 24.1,
-          "tmin": 12.8,
-          "precip_prob": 5,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 20.6,
+          "tmin": 13.2,
+          "precip_prob": 10,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.8,
-          "tmin": 10.2,
+          "tmax": 23.2,
+          "tmin": 12.1,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21,
+          "tmin": 16.4,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17,
+          "tmin": 11.7,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.6,
+          "tmin": 10.6,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "asobiba-ikebukuro": {
+      "field_id": "asobiba-ikebukuro",
+      "fetched_at": "2026-04-18T23:06:26.033Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23,
+          "tmin": 10.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 11.1,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.9,
+          "tmin": 12.4,
+          "precip_prob": 10,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.1,
+          "tmin": 11.5,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16.2,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.9,
+          "tmin": 11.6,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 10.4,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "bravepoint-ikebukuro": {
+      "field_id": "bravepoint-ikebukuro",
+      "fetched_at": "2026-04-18T23:06:26.034Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23,
+          "tmin": 10.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 11.1,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.9,
+          "tmin": 12.4,
+          "precip_prob": 10,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.1,
+          "tmin": 11.5,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16.2,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.9,
+          "tmin": 11.6,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 10.4,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "brickfield-tokyo": {
+      "field_id": "brickfield-tokyo",
+      "fetched_at": "2026-04-18T23:06:26.035Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23,
+          "tmin": 10.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.5,
+          "tmin": 10.9,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 21,
+          "tmin": 12.2,
+          "precip_prob": 10,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.6,
+          "tmin": 11.1,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16,
+          "precip_prob": 68,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.5,
+          "tmin": 11.3,
+          "precip_prob": 81,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.9,
+          "tmin": 9,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "splash-shinkiba": {
+      "field_id": "splash-shinkiba",
+      "fetched_at": "2026-04-18T23:06:26.614Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.8,
+          "tmin": 11.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.7,
+          "tmin": 12.5,
+          "precip_prob": 3,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 18.1,
+          "tmin": 14.4,
+          "precip_prob": 10,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.6,
+          "tmin": 12.7,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21,
+          "tmin": 16.6,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.2,
+          "tmin": 11.3,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.9,
+          "tmin": 10.5,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "novarena": {
+      "field_id": "novarena",
+      "fetched_at": "2026-04-18T23:06:26.616Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.1,
+          "tmin": 10.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.5,
+          "tmin": 11.2,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.9,
+          "tmin": 12.5,
+          "precip_prob": 10,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.1,
+          "tmin": 11.6,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16.3,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.9,
+          "tmin": 11.6,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 10.5,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "savage-shinkiba": {
+      "field_id": "savage-shinkiba",
+      "fetched_at": "2026-04-18T23:06:26.725Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.8,
+          "tmin": 11.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.7,
+          "tmin": 12.5,
+          "precip_prob": 3,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 18.1,
+          "tmin": 14.4,
+          "precip_prob": 10,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.6,
+          "tmin": 12.7,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21,
+          "tmin": 16.6,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.2,
+          "tmin": 11.3,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.9,
+          "tmin": 10.5,
+          "precip_prob": 38,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "seals-machida": {
+      "field_id": "seals-machida",
+      "fetched_at": "2026-04-18T23:06:26.767Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.5,
+          "tmin": 10.1,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.2,
+          "tmin": 10.8,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.1,
+          "tmin": 11.7,
+          "precip_prob": 20,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.9,
+          "tmin": 7.9,
+          "precip_prob": 7,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 18.9,
+          "tmin": 14.7,
+          "precip_prob": 90,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 15.6,
+          "tmin": 9.3,
+          "precip_prob": 91,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 6.5,
+          "precip_prob": 40,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "headshot-sagamiko": {
+      "field_id": "headshot-sagamiko",
+      "fetched_at": "2026-04-18T23:06:26.790Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.4,
+          "tmin": 10.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.8,
+          "tmin": 11.3,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.5,
+          "tmin": 5.6,
           "precip_prob": 6,
           "weather_code": 3,
           "summary": "曇り"
@@ -54,568 +590,32 @@
         {
           "date": "2026-04-23",
           "tmax": 17.3,
-          "tmin": 14.9,
-          "precip_prob": 81,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 25,
-          "tmin": 15.9,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "asobiba-ikebukuro": {
-      "field_id": "asobiba-ikebukuro",
-      "fetched_at": "2026-04-18T06:44:24.064Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21,
-          "tmin": 8.3,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 11.5,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.9,
-          "tmin": 10.8,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24,
-          "tmin": 11.9,
-          "precip_prob": 5,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.7,
-          "tmin": 10.1,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17.1,
-          "tmin": 14.7,
-          "precip_prob": 81,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.9,
-          "tmin": 15.8,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "bravepoint-ikebukuro": {
-      "field_id": "bravepoint-ikebukuro",
-      "fetched_at": "2026-04-18T06:44:24.066Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21,
-          "tmin": 8.3,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 11.5,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.9,
-          "tmin": 10.8,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24,
-          "tmin": 11.9,
-          "precip_prob": 5,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.7,
-          "tmin": 10.1,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17.1,
-          "tmin": 14.7,
-          "precip_prob": 81,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.9,
-          "tmin": 15.8,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "brickfield-tokyo": {
-      "field_id": "brickfield-tokyo",
-      "fetched_at": "2026-04-18T06:44:24.067Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.5,
-          "tmin": 8.1,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 11.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.9,
-          "tmin": 10.5,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24,
-          "tmin": 11.7,
-          "precip_prob": 3,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.7,
-          "tmin": 9.4,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 16.7,
-          "tmin": 13.5,
-          "precip_prob": 83,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 23.4,
-          "tmin": 15.5,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "splash-shinkiba": {
-      "field_id": "splash-shinkiba",
-      "fetched_at": "2026-04-18T06:44:24.718Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 18.9,
-          "tmin": 11.1,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.5,
-          "tmin": 12.9,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.5,
-          "tmin": 12.4,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24.1,
-          "tmin": 14.5,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.3,
-          "tmin": 11,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17.7,
-          "tmin": 15.4,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 25.2,
-          "tmin": 16.4,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "novarena": {
-      "field_id": "novarena",
-      "fetched_at": "2026-04-18T06:44:24.719Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.1,
-          "tmin": 8.3,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23,
-          "tmin": 11.5,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20,
-          "tmin": 10.9,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24,
-          "tmin": 12,
-          "precip_prob": 5,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.7,
-          "tmin": 10.1,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17.2,
-          "tmin": 14.8,
-          "precip_prob": 81,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.9,
-          "tmin": 15.8,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "savage-shinkiba": {
-      "field_id": "savage-shinkiba",
-      "fetched_at": "2026-04-18T06:44:24.735Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 18.9,
-          "tmin": 11.1,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.5,
-          "tmin": 12.9,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.5,
-          "tmin": 12.4,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24.1,
-          "tmin": 14.5,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22.3,
-          "tmin": 11,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17.7,
-          "tmin": 15.4,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 25.2,
-          "tmin": 16.4,
-          "precip_prob": 85,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "seals-machida": {
-      "field_id": "seals-machida",
-      "fetched_at": "2026-04-18T06:44:24.833Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.4,
-          "tmin": 8.2,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.3,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.7,
-          "tmin": 11.1,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.7,
-          "tmin": 12.1,
-          "precip_prob": 5,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.7,
-          "tmin": 7.8,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 15.7,
-          "tmin": 13.5,
-          "precip_prob": 83,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.1,
-          "tmin": 16.2,
-          "precip_prob": 88,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "headshot-sagamiko": {
-      "field_id": "headshot-sagamiko",
-      "fetched_at": "2026-04-18T06:44:24.946Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
+          "tmin": 12.8,
           "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
           "weather_code": 61,
           "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "desert-union": {
       "field_id": "desert-union",
-      "fetched_at": "2026-04-18T06:44:24.981Z",
+      "fetched_at": "2026-04-18T23:06:26.850Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -624,628 +624,8 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
-          "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "sgf-union": {
-      "field_id": "sgf-union",
-      "fetched_at": "2026-04-18T06:44:25.026Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
-          "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "hooah": {
-      "field_id": "hooah",
-      "fetched_at": "2026-04-18T06:44:25.083Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
-          "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "no9": {
-      "field_id": "no9",
-      "fetched_at": "2026-04-18T06:44:25.172Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.1,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 12.2,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.9,
-          "tmin": 11.9,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24.3,
-          "tmin": 13.2,
-          "precip_prob": 5,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22,
-          "tmin": 10.9,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17,
-          "tmin": 15.3,
-          "precip_prob": 83,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.8,
-          "tmin": 16.7,
-          "precip_prob": 88,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "camp-desert": {
-      "field_id": "camp-desert",
-      "fetched_at": "2026-04-18T06:44:25.218Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
-          "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "sg-block": {
-      "field_id": "sg-block",
-      "fetched_at": "2026-04-18T06:44:25.243Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.1,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 12.2,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.9,
-          "tmin": 11.9,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24.3,
-          "tmin": 13.2,
-          "precip_prob": 5,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22,
-          "tmin": 10.9,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 17,
-          "tmin": 15.3,
-          "precip_prob": 83,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.8,
-          "tmin": 16.7,
-          "precip_prob": 88,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "outback-atsugi": {
-      "field_id": "outback-atsugi",
-      "fetched_at": "2026-04-18T06:44:25.342Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.1,
-          "tmin": 9,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.6,
-          "tmin": 11.8,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.2,
-          "tmin": 12.3,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.8,
-          "tmin": 12.6,
-          "precip_prob": 5,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21.8,
-          "tmin": 8.9,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 16.8,
-          "tmin": 14.6,
-          "precip_prob": 91,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 25.2,
-          "tmin": 17.3,
-          "precip_prob": 92,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "bush": {
-      "field_id": "bush",
-      "fetched_at": "2026-04-18T06:44:25.445Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 7.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.1,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.9,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.1,
-          "tmin": 6.6,
-          "precip_prob": 5,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 4.6,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 9.9,
-          "precip_prob": 91,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.9,
-          "tmin": 11.8,
-          "precip_prob": 92,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "vfc-field": {
-      "field_id": "vfc-field",
-      "fetched_at": "2026-04-18T06:44:25.539Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 7.9,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 11.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.2,
-          "tmin": 10.8,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.8,
-          "tmin": 10.5,
-          "precip_prob": 8,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21.4,
-          "tmin": 5.3,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 14,
-          "tmin": 11,
-          "precip_prob": 88,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.8,
-          "tmin": 13.7,
-          "precip_prob": 90,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "sgf-desert-saitama": {
-      "field_id": "sgf-desert-saitama",
-      "fetched_at": "2026-04-18T06:44:25.555Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 22.7,
-          "tmin": 7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.7,
+          "tmax": 22.4,
           "tmin": 10.4,
           "precip_prob": 0,
           "weather_code": 3,
@@ -1253,933 +633,57 @@
         },
         {
           "date": "2026-04-20",
-          "tmax": 20.5,
+          "tmax": 19.9,
           "tmin": 10.6,
           "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
+          "weather_code": 3,
+          "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23.9,
-          "tmin": 9.6,
-          "precip_prob": 8,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21,
-          "tmin": 5.8,
-          "precip_prob": 4,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.7,
-          "tmin": 10.6,
-          "precip_prob": 78,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.2,
-          "tmin": 12.8,
-          "precip_prob": 79,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "ops-saitama": {
-      "field_id": "ops-saitama",
-      "fetched_at": "2026-04-18T06:44:25.618Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 22.7,
-          "tmin": 7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.7,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.5,
-          "tmin": 10.6,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.9,
-          "tmin": 9.6,
-          "precip_prob": 8,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21,
-          "tmin": 5.8,
-          "precip_prob": 4,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.7,
-          "tmin": 10.6,
-          "precip_prob": 78,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.2,
-          "tmin": 12.8,
-          "precip_prob": 79,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "sgf-nap": {
-      "field_id": "sgf-nap",
-      "fetched_at": "2026-04-18T06:44:25.680Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 22.2,
-          "tmin": 8.4,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.3,
-          "tmin": 11.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
           "tmax": 19.8,
-          "tmin": 11.5,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.7,
-          "tmin": 9.3,
-          "precip_prob": 29,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.7,
-          "tmin": 5.5,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.4,
-          "tmin": 10.3,
-          "precip_prob": 86,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 21.9,
-          "tmin": 12.5,
-          "precip_prob": 87,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "bbjack": {
-      "field_id": "bbjack",
-      "fetched_at": "2026-04-18T06:44:25.771Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 7.9,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 11.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.2,
-          "tmin": 10.8,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.8,
-          "tmin": 10.5,
-          "precip_prob": 8,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21.4,
-          "tmin": 5.3,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 14,
-          "tmin": 11,
-          "precip_prob": 88,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.8,
-          "tmin": 13.7,
-          "precip_prob": 90,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "mars-tokigawa": {
-      "field_id": "mars-tokigawa",
-      "fetched_at": "2026-04-18T06:44:25.784Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 22.7,
-          "tmin": 7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.7,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.5,
-          "tmin": 10.6,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.9,
-          "tmin": 9.6,
-          "precip_prob": 8,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21,
-          "tmin": 5.8,
-          "precip_prob": 4,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.7,
-          "tmin": 10.6,
-          "precip_prob": 78,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.2,
-          "tmin": 12.8,
-          "precip_prob": 79,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "bigtec": {
-      "field_id": "bigtec",
-      "fetched_at": "2026-04-18T06:44:25.820Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 7.1,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.8,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.3,
-          "tmin": 10.2,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.7,
-          "tmin": 10.1,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21.4,
-          "tmin": 5.3,
-          "precip_prob": 9,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 14,
-          "tmin": 11,
-          "precip_prob": 83,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.8,
-          "tmin": 13.7,
-          "precip_prob": 85,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "ope0326": {
-      "field_id": "ope0326",
-      "fetched_at": "2026-04-18T06:44:25.879Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 22.1,
-          "tmin": 6.9,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.1,
-          "tmin": 9.7,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.7,
-          "tmin": 10.9,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.4,
-          "tmin": 8.5,
-          "precip_prob": 29,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.9,
-          "tmin": 4.4,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.7,
-          "tmin": 10.2,
-          "precip_prob": 86,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 21.7,
-          "tmin": 12,
-          "precip_prob": 87,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "sg-ikusa": {
-      "field_id": "sg-ikusa",
-      "fetched_at": "2026-04-18T06:44:26.039Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.5,
-          "tmin": 10.4,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.8,
-          "tmin": 12.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.1,
-          "tmin": 11.1,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 20.5,
-          "tmin": 13.3,
-          "precip_prob": 8,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 17.9,
-          "tmin": 14.2,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.5,
-          "tmin": 16.2,
-          "precip_prob": 79,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.8,
-          "tmin": 17.7,
-          "precip_prob": 89,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "battle-city-chiba": {
-      "field_id": "battle-city-chiba",
-      "fetched_at": "2026-04-18T06:44:26.047Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.1,
-          "tmin": 10.6,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 20.8,
-          "tmin": 13,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.1,
-          "tmin": 12,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 20.3,
-          "tmin": 13.5,
-          "precip_prob": 8,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 17.9,
-          "tmin": 14.3,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.5,
-          "tmin": 16.2,
-          "precip_prob": 79,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.8,
-          "tmin": 17.7,
-          "precip_prob": 89,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "hound": {
-      "field_id": "hound",
-      "fetched_at": "2026-04-18T06:44:26.095Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.5,
-          "tmin": 10.4,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.8,
-          "tmin": 12.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.1,
-          "tmin": 11.1,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 20.5,
-          "tmin": 13.3,
-          "precip_prob": 8,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 17.9,
-          "tmin": 14.2,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.5,
-          "tmin": 16.2,
-          "precip_prob": 79,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 20.8,
-          "tmin": 17.7,
-          "precip_prob": 89,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "blam-chiba": {
-      "field_id": "blam-chiba",
-      "fetched_at": "2026-04-18T06:44:26.147Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.2,
-          "tmin": 9.8,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.7,
-          "tmin": 12.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.2,
           "tmin": 11.3,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.2,
-          "tmin": 12.7,
           "precip_prob": 8,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 13.8,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.8,
-          "tmin": 16.1,
-          "precip_prob": 79,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 21.9,
-          "tmin": 17.3,
-          "precip_prob": 89,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "oasis-chiba": {
-      "field_id": "oasis-chiba",
-      "fetched_at": "2026-04-18T06:44:26.265Z",
-      "fetch_ok": false,
-      "fetch_error": "HTTP 403",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 18.6,
-          "tmin": 11.1,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 19.2,
-          "tmin": 12.9,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 18.1,
-          "tmin": 13.1,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.2,
-          "tmin": 13.4,
-          "precip_prob": 8,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 19.7,
-          "tmin": 13.8,
-          "precip_prob": 7,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.8,
-          "tmin": 16.1,
-          "precip_prob": 79,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 21.9,
-          "tmin": 17.4,
-          "precip_prob": 89,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "forests-chiba": {
-      "field_id": "forests-chiba",
-      "fetched_at": "2026-04-18T06:44:26.310Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.4,
-          "tmin": 9.2,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 21.3,
-          "tmin": 11.3,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.4,
-          "tmin": 10.1,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 23.2,
-          "tmin": 11.6,
-          "precip_prob": 10,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22,
-          "tmin": 10.6,
-          "precip_prob": 8,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 19.2,
-          "tmin": 14.2,
-          "precip_prob": 74,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.2,
-          "tmin": 16.4,
-          "precip_prob": 89,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        }
-      ]
-    },
-    "fab-chiba": {
-      "field_id": "fab-chiba",
-      "fetched_at": "2026-04-18T06:44:26.311Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.3,
-          "tmin": 8.8,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 20.9,
-          "tmin": 10.9,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.6,
-          "tmin": 9.6,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.6,
-          "tmin": 10.9,
-          "precip_prob": 13,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 22,
-          "tmin": 10.3,
+          "tmax": 20.5,
+          "tmin": 5.6,
           "precip_prob": 6,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.4,
-          "tmin": 14.2,
-          "precip_prob": 72,
+          "tmax": 17.3,
+          "tmin": 12.8,
+          "precip_prob": 91,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 24,
-          "tmin": 16.2,
-          "precip_prob": 84,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "tryst": {
-      "field_id": "tryst",
-      "fetched_at": "2026-04-18T06:44:26.435Z",
+    "sgf-union": {
+      "field_id": "sgf-union",
+      "fetched_at": "2026-04-18T23:06:26.898Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2188,66 +692,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 22.4,
-          "tmin": 7.6,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
           "tmax": 22.4,
-          "tmin": 10.6,
+          "tmin": 10.4,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 18.6,
-          "tmin": 9.4,
-          "precip_prob": 2,
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23.4,
-          "tmin": 10.3,
-          "precip_prob": 10,
-          "weather_code": 51,
-          "summary": "霧雨"
+          "tmax": 19.8,
+          "tmin": 11.3,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 23.2,
-          "tmin": 11.7,
-          "precip_prob": 8,
+          "tmax": 20.5,
+          "tmin": 5.6,
+          "precip_prob": 6,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.2,
-          "tmin": 14.1,
-          "precip_prob": 78,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 17.3,
+          "tmin": 12.8,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 23.7,
-          "tmin": 15.6,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "battle-country": {
-      "field_id": "battle-country",
-      "fetched_at": "2026-04-18T06:44:26.484Z",
+    "hooah": {
+      "field_id": "hooah",
+      "fetched_at": "2026-04-18T23:06:26.957Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2256,16 +760,620 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 22,
-          "tmin": 7.5,
+          "date": "2026-04-19",
+          "tmax": 22.4,
+          "tmin": 10.4,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
+          "date": "2026-04-20",
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.8,
+          "tmin": 11.3,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.5,
+          "tmin": 5.6,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 17.3,
+          "tmin": 12.8,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "no9": {
+      "field_id": "no9",
+      "fetched_at": "2026-04-18T23:06:27.031Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
           "date": "2026-04-19",
-          "tmax": 21.4,
+          "tmax": 23.3,
+          "tmin": 11.2,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 21.8,
+          "tmin": 11.9,
+          "precip_prob": 3,
+          "weather_code": 1,
+          "summary": "晴"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.6,
+          "tmin": 13.9,
+          "precip_prob": 20,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.2,
+          "tmin": 11.9,
+          "precip_prob": 7,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16.1,
+          "precip_prob": 90,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.5,
+          "tmin": 11,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.6,
+          "tmin": 9.5,
+          "precip_prob": 40,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "camp-desert": {
+      "field_id": "camp-desert",
+      "fetched_at": "2026-04-18T23:06:27.048Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.4,
+          "tmin": 10.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.8,
+          "tmin": 11.3,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.5,
+          "tmin": 5.6,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 17.3,
+          "tmin": 12.8,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "sg-block": {
+      "field_id": "sg-block",
+      "fetched_at": "2026-04-18T23:06:27.077Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.3,
+          "tmin": 11.2,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 21.8,
+          "tmin": 11.9,
+          "precip_prob": 3,
+          "weather_code": 1,
+          "summary": "晴"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.6,
+          "tmin": 13.9,
+          "precip_prob": 20,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.2,
+          "tmin": 11.9,
+          "precip_prob": 7,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 16.1,
+          "precip_prob": 90,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.5,
+          "tmin": 11,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.6,
+          "tmin": 9.5,
+          "precip_prob": 40,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "outback-atsugi": {
+      "field_id": "outback-atsugi",
+      "fetched_at": "2026-04-18T23:06:27.218Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.9,
+          "tmin": 11.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.8,
+          "tmin": 12,
+          "precip_prob": 3,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.1,
+          "tmin": 12.7,
+          "precip_prob": 8,
+          "weather_code": 53,
+          "summary": "霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22,
+          "tmin": 9,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20,
+          "tmin": 15.8,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.7,
+          "tmin": 10.4,
+          "precip_prob": 93,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22,
+          "tmin": 7.6,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "bush": {
+      "field_id": "bush",
+      "fetched_at": "2026-04-18T23:06:27.332Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.4,
+          "tmin": 10.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.8,
+          "tmin": 11.3,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.5,
+          "tmin": 5.6,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 17.3,
+          "tmin": 12.8,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 14.8,
+          "tmin": 7.3,
+          "precip_prob": 93,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.9,
+          "tmin": 4.9,
+          "precip_prob": 43,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "vfc-field": {
+      "field_id": "vfc-field",
+      "fetched_at": "2026-04-18T23:06:27.349Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.9,
+          "tmin": 11.1,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 22.1,
+          "tmin": 10.3,
+          "precip_prob": 8,
+          "weather_code": 55,
+          "summary": "強霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.3,
+          "tmin": 6.6,
+          "precip_prob": 4,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.2,
+          "tmin": 13,
+          "precip_prob": 87,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17,
+          "tmin": 8.2,
+          "precip_prob": 89,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.1,
+          "tmin": 6.2,
+          "precip_prob": 47,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "sgf-desert-saitama": {
+      "field_id": "sgf-desert-saitama",
+      "fetched_at": "2026-04-18T23:06:27.459Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.7,
+          "tmin": 9.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.8,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 22.7,
+          "tmin": 10,
+          "precip_prob": 8,
+          "weather_code": 55,
+          "summary": "強霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 21.9,
+          "tmin": 6.6,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 17.7,
+          "tmin": 11.6,
+          "precip_prob": 58,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.6,
+          "tmin": 8.5,
+          "precip_prob": 68,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.6,
+          "tmin": 5.6,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "ops-saitama": {
+      "field_id": "ops-saitama",
+      "fetched_at": "2026-04-18T23:06:27.573Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.7,
+          "tmin": 9.4,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.8,
+          "tmin": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 22.7,
+          "tmin": 10,
+          "precip_prob": 8,
+          "weather_code": 55,
+          "summary": "強霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 21.9,
+          "tmin": 6.6,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 17.7,
+          "tmin": 11.6,
+          "precip_prob": 58,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.6,
+          "tmin": 8.5,
+          "precip_prob": 68,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.6,
+          "tmin": 5.6,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "sgf-nap": {
+      "field_id": "sgf-nap",
+      "fetched_at": "2026-04-18T23:06:27.688Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.2,
           "tmin": 10.7,
           "precip_prob": 0,
           "weather_code": 3,
@@ -2273,49 +1381,57 @@
         },
         {
           "date": "2026-04-20",
-          "tmax": 18.5,
-          "tmin": 9.6,
-          "precip_prob": 2,
-          "weather_code": 2,
-          "summary": "薄曇"
+          "tmax": 20.2,
+          "tmin": 11,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23,
+          "tmax": 22.6,
           "tmin": 10.5,
-          "precip_prob": 10,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "precip_prob": 33,
+          "weather_code": 55,
+          "summary": "強霧雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.7,
-          "tmin": 11,
+          "tmax": 21.6,
+          "tmin": 6.3,
           "precip_prob": 8,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 17.2,
-          "tmin": 12.7,
-          "precip_prob": 78,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 17.4,
+          "tmin": 11.3,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 22.7,
-          "tmin": 15.2,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 16.3,
+          "tmin": 8.2,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.3,
+          "tmin": 5.3,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "area-inashiki": {
-      "field_id": "area-inashiki",
-      "fetched_at": "2026-04-18T06:44:26.491Z",
+    "bbjack": {
+      "field_id": "bbjack",
+      "fetched_at": "2026-04-18T23:06:27.706Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2324,134 +1440,134 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 21.8,
-          "tmin": 8.9,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 20.7,
-          "tmin": 10.9,
+          "tmax": 22.9,
+          "tmin": 11.1,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 18.6,
+          "tmax": 19.9,
+          "tmin": 10.6,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 22.1,
+          "tmin": 10.3,
+          "precip_prob": 8,
+          "weather_code": 55,
+          "summary": "強霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.3,
+          "tmin": 6.6,
+          "precip_prob": 4,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.2,
+          "tmin": 13,
+          "precip_prob": 87,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17,
+          "tmin": 8.2,
+          "precip_prob": 89,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.1,
+          "tmin": 6.2,
+          "precip_prob": 47,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "mars-tokigawa": {
+      "field_id": "mars-tokigawa",
+      "fetched_at": "2026-04-18T23:06:27.761Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 23.7,
           "tmin": 9.4,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
-          "date": "2026-04-21",
-          "tmax": 23.4,
-          "tmin": 10.1,
-          "precip_prob": 15,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 23.2,
-          "tmin": 12.1,
-          "precip_prob": 6,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.2,
-          "tmin": 14.4,
-          "precip_prob": 72,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 23.8,
-          "tmin": 15.6,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        }
-      ]
-    },
-    "splush-ami": {
-      "field_id": "splush-ami",
-      "fetched_at": "2026-04-18T06:44:26.662Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 9.5,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 20.9,
-          "tmin": 11.1,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
           "date": "2026-04-20",
-          "tmax": 18.5,
-          "tmin": 10.5,
-          "precip_prob": 0,
+          "tmax": 20.8,
+          "tmin": 10.6,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23.5,
-          "tmin": 11.6,
-          "precip_prob": 15,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 22.7,
+          "tmin": 10,
+          "precip_prob": 8,
+          "weather_code": 55,
+          "summary": "強霧雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 23.3,
-          "tmin": 12.2,
-          "precip_prob": 6,
+          "tmax": 21.9,
+          "tmin": 6.6,
+          "precip_prob": 8,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.2,
-          "tmin": 14.4,
-          "precip_prob": 72,
+          "tmax": 17.7,
+          "tmin": 11.6,
+          "precip_prob": 58,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 23.9,
-          "tmin": 15.7,
-          "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 16.6,
+          "tmin": 8.5,
+          "precip_prob": 68,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.6,
+          "tmin": 5.6,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "asylum-ryugasaki": {
-      "field_id": "asylum-ryugasaki",
-      "fetched_at": "2026-04-18T06:44:26.682Z",
+    "bigtec": {
+      "field_id": "bigtec",
+      "fetched_at": "2026-04-18T23:06:27.841Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2460,17 +1576,9 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 22.4,
-          "tmin": 8.7,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.5,
-          "tmin": 11.1,
+          "tmax": 22.8,
+          "tmin": 10.5,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
@@ -2478,48 +1586,56 @@
         {
           "date": "2026-04-20",
           "tmax": 20,
-          "tmin": 9.3,
-          "precip_prob": 0,
+          "tmin": 10,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23.5,
-          "tmin": 11.3,
-          "precip_prob": 15,
-          "weather_code": 55,
-          "summary": "強霧雨"
+          "tmax": 21.9,
+          "tmin": 10.2,
+          "precip_prob": 10,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.5,
-          "tmin": 12.4,
+          "tmax": 22.3,
+          "tmin": 6.6,
           "precip_prob": 6,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.9,
-          "tmin": 15.1,
-          "precip_prob": 72,
+          "tmax": 19.2,
+          "tmin": 13,
+          "precip_prob": 68,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 24,
-          "tmin": 15.9,
+          "tmax": 17,
+          "tmin": 8.2,
           "precip_prob": 81,
           "weather_code": 80,
           "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.1,
+          "tmin": 6.2,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "capture-sakura": {
-      "field_id": "capture-sakura",
-      "fetched_at": "2026-04-18T06:44:26.849Z",
+    "ope0326": {
+      "field_id": "ope0326",
+      "fetched_at": "2026-04-18T23:06:27.870Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2528,17 +1644,281 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 20.2,
-          "tmin": 5.7,
-          "precip_prob": 3,
+          "date": "2026-04-19",
+          "tmax": 23.1,
+          "tmin": 10.4,
+          "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
+          "date": "2026-04-20",
+          "tmax": 19.2,
+          "tmin": 10.8,
+          "precip_prob": 5,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 23,
+          "tmin": 9.2,
+          "precip_prob": 33,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 21.1,
+          "tmin": 5.1,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 16.7,
+          "tmin": 12.4,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 15.6,
+          "tmin": 9.4,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.5,
+          "tmin": 3.6,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "sg-ikusa": {
+      "field_id": "sg-ikusa",
+      "fetched_at": "2026-04-18T23:06:27.888Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
           "date": "2026-04-19",
-          "tmax": 23.5,
-          "tmin": 8.4,
+          "tmax": 21.6,
+          "tmin": 11.8,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 11.4,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.5,
+          "tmin": 13.1,
+          "precip_prob": 9,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 19.1,
+          "tmin": 13.4,
+          "precip_prob": 2,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.7,
+          "tmin": 17.3,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.9,
+          "tmin": 14.8,
+          "precip_prob": 92,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 18.9,
+          "tmin": 14.6,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "battle-city-chiba": {
+      "field_id": "battle-city-chiba",
+      "fetched_at": "2026-04-18T23:06:27.920Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 20.6,
+          "tmin": 11.9,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20,
+          "tmin": 12.6,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19,
+          "tmin": 13.6,
+          "precip_prob": 9,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 19.1,
+          "tmin": 13.9,
+          "precip_prob": 2,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.8,
+          "tmin": 17.4,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 19,
+          "tmin": 14.9,
+          "precip_prob": 92,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 19,
+          "tmin": 14.6,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "hound": {
+      "field_id": "hound",
+      "fetched_at": "2026-04-18T23:06:28.024Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.6,
+          "tmin": 11.8,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 11.4,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.5,
+          "tmin": 13.1,
+          "precip_prob": 9,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 19.1,
+          "tmin": 13.4,
+          "precip_prob": 2,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.7,
+          "tmin": 17.3,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.9,
+          "tmin": 14.8,
+          "precip_prob": 92,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 18.9,
+          "tmin": 14.6,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "blam-chiba": {
+      "field_id": "blam-chiba",
+      "fetched_at": "2026-04-18T23:06:28.054Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.8,
+          "tmin": 11,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
@@ -2546,186 +1926,171 @@
         {
           "date": "2026-04-20",
           "tmax": 20.1,
-          "tmin": 9.1,
-          "precip_prob": 13,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.3,
-          "tmin": 9.5,
-          "precip_prob": 48,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 21.6,
-          "tmin": 7.3,
-          "precip_prob": 13,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 14.1,
-          "tmin": 9.7,
-          "precip_prob": 82,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22,
-          "tmin": 13.1,
-          "precip_prob": 87,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        }
-      ]
-    },
-    "heat-tochigi": {
-      "field_id": "heat-tochigi",
-      "fetched_at": "2026-04-18T06:44:26.891Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 20.9,
-          "tmin": 7.8,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.8,
-          "tmin": 10.1,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.6,
-          "tmin": 9.3,
-          "precip_prob": 3,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 22.2,
-          "tmin": 9.9,
-          "precip_prob": 31,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.5,
-          "tmin": 7,
-          "precip_prob": 12,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 15.7,
-          "tmin": 9.4,
-          "precip_prob": 78,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 22.8,
-          "tmin": 13.7,
-          "precip_prob": 82,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "battle-factory": {
-      "field_id": "battle-factory",
-      "fetched_at": "2026-04-18T06:44:26.913Z",
-      "fetch_ok": true,
-      "fetch_error": null,
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [
-        "https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-landscape.jpg"
-      ],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 6.5,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 24.1,
-          "tmin": 9.2,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.7,
-          "tmin": 10.5,
+          "tmin": 12.2,
           "precip_prob": 8,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 23.7,
-          "tmin": 10.2,
-          "precip_prob": 13,
-          "weather_code": 51,
-          "summary": "霧雨"
+          "tmax": 19.7,
+          "tmin": 12.7,
+          "precip_prob": 9,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.5,
-          "tmin": 10.9,
-          "precip_prob": 11,
+          "tmax": 20.2,
+          "tmin": 13.2,
+          "precip_prob": 2,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 14.6,
-          "tmin": 12.6,
-          "precip_prob": 79,
+          "tmax": 20.2,
+          "tmin": 17.3,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 19,
+          "tmin": 14.5,
+          "precip_prob": 92,
           "weather_code": 80,
           "summary": "にわか雨"
         },
         {
-          "date": "2026-04-24",
-          "tmax": 24.2,
-          "tmin": 14.1,
-          "precip_prob": 83,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "date": "2026-04-25",
+          "tmax": 20.1,
+          "tmin": 12.5,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "battle-zone-ota": {
-      "field_id": "battle-zone-ota",
-      "fetched_at": "2026-04-18T06:44:27.015Z",
+    "oasis-chiba": {
+      "field_id": "oasis-chiba",
+      "fetched_at": "2026-04-18T23:06:28.094Z",
+      "fetch_ok": true,
+      "fetch_error": null,
+      "upcoming_schedule": [
+        {
+          "date": "2026-04-19",
+          "title": "日曜交流会",
+          "status": "scheduled",
+          "note": null
+        },
+        {
+          "date": "2026-04-20",
+          "title": "平日交流会",
+          "status": "scheduled",
+          "note": "予約受付中"
+        },
+        {
+          "date": "2026-04-22",
+          "title": "平日交流会",
+          "status": "scheduled",
+          "note": "予約受付中"
+        },
+        {
+          "date": "2026-04-24",
+          "title": "平日交流会",
+          "status": "scheduled",
+          "note": "予約受付中"
+        },
+        {
+          "date": "2026-05-10",
+          "title": "Oasis6耐",
+          "status": "scheduled",
+          "note": "半年に一度恒例のOasis6耐、料金一律4,000円"
+        }
+      ],
+      "recent_cancellations": [
+        {
+          "date": "2026-04-16",
+          "title": "平日交流会",
+          "status": "cancelled",
+          "note": "最小催行人数に達しないため中止"
+        }
+      ],
+      "latest_news": "予約フォームからの予約が現在できないため、公式LINEまたはメール([email protected])にて予約受付中。5月10日(日)はOasis6耐開催予定（料金一律4,000円）。",
+      "image_urls": [
+        "https://u.jimcdn.com/cms/o/sea5c1efce9a10443/emotion/crop/header.png?t=1397610113",
+        "https://image.jimcdn.com/app/cms/image/transf/dimension=670x10000:format=gif/path/sea5c1efce9a10443/image/i1f10cc333a89d105/version/1368600106/%E4%BA%88%E7%B4%84%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC.gif",
+        "https://image.jimcdn.com/app/cms/image/transf/none/path/sea5c1efce9a10443/image/if61f9392efb848ba/version/1410266426/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9.png",
+        "https://image.jimcdn.com/app/cms/image/transf/dimension=670x10000:format=jpg/path/sea5c1efce9a10443/image/i964dc67bb14d64ab/version/1775278390/image.jpg",
+        "https://image.jimcdn.com/app/cms/image/transf/none/path/sea5c1efce9a10443/image/ie8185fdf52c621f0/version/1663241235/image.png",
+        "https://image.jimcdn.com/app/cms/image/transf/dimension=335x1024:format=jpg/path/sea5c1efce9a10443/image/ie673a7dcb602a2f3/version/1654156853/image.jpg",
+        "https://u.jimcdn.com/www58/o/sbb7887fe57c0db50/userlayout/img/btn-home-n1.png",
+        "https://u.jimcdn.com/www58/o/sbb7887fe57c0db50/userlayout/img/btn-info-n2.png"
+      ],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 18.8,
+          "tmin": 12.5,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 18.5,
+          "tmin": 13.3,
+          "precip_prob": 8,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 18.3,
+          "tmin": 13.3,
+          "precip_prob": 9,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.2,
+          "tmin": 14.2,
+          "precip_prob": 2,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.3,
+          "tmin": 17.3,
+          "precip_prob": 91,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 19,
+          "tmin": 14.5,
+          "precip_prob": 92,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20.1,
+          "tmin": 12.6,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "forests-chiba": {
+      "field_id": "forests-chiba",
+      "fetched_at": "2026-04-18T23:06:28.141Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2734,17 +2099,623 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 21.7,
-          "tmin": 7.4,
+          "date": "2026-04-19",
+          "tmax": 22.2,
+          "tmin": 11,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
+          "date": "2026-04-20",
+          "tmax": 19.4,
+          "tmin": 10.4,
+          "precip_prob": 8,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.9,
+          "tmin": 10.7,
+          "precip_prob": 5,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 21.8,
+          "tmin": 10.2,
+          "precip_prob": 4,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21.4,
+          "tmin": 15.9,
+          "precip_prob": 81,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.7,
+          "tmin": 11.9,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 8.7,
+          "precip_prob": 39,
+          "weather_code": 45,
+          "summary": "霧"
+        }
+      ]
+    },
+    "fab-chiba": {
+      "field_id": "fab-chiba",
+      "fetched_at": "2026-04-18T23:06:28.191Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
           "date": "2026-04-19",
-          "tmax": 23.5,
+          "tmax": 22,
+          "tmin": 10.2,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.7,
+          "tmin": 9.9,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.9,
           "tmin": 10.3,
+          "precip_prob": 20,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.1,
+          "tmin": 9.7,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.9,
+          "tmin": 15.5,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.3,
+          "tmin": 12.2,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 9,
+          "precip_prob": 43,
+          "weather_code": 45,
+          "summary": "霧"
+        }
+      ]
+    },
+    "tryst": {
+      "field_id": "tryst",
+      "fetched_at": "2026-04-18T23:06:28.315Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.6,
+          "tmin": 9.7,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 18.2,
+          "tmin": 10.2,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.5,
+          "tmin": 10.6,
+          "precip_prob": 5,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.7,
+          "tmin": 10.8,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.8,
+          "tmin": 14.9,
+          "precip_prob": 76,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.1,
+          "tmin": 11.1,
+          "precip_prob": 81,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.4,
+          "tmin": 10.2,
+          "precip_prob": 41,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "battle-country": {
+      "field_id": "battle-country",
+      "fetched_at": "2026-04-18T23:06:28.408Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.3,
+          "tmin": 9.8,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 18,
+          "tmin": 10,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.1,
+          "tmin": 10.3,
+          "precip_prob": 5,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.1,
+          "tmin": 9.9,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20.2,
+          "tmin": 15.6,
+          "precip_prob": 76,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.3,
+          "tmin": 9.4,
+          "precip_prob": 81,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.2,
+          "tmin": 9.2,
+          "precip_prob": 41,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "area-inashiki": {
+      "field_id": "area-inashiki",
+      "fetched_at": "2026-04-18T23:06:28.429Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 20.9,
+          "tmin": 10,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 18.8,
+          "tmin": 9.9,
+          "precip_prob": 5,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 19.5,
+          "tmin": 10.1,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.9,
+          "tmin": 11.1,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21,
+          "tmin": 15.9,
+          "precip_prob": 83,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.3,
+          "tmin": 11.5,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.4,
+          "tmin": 9.9,
+          "precip_prob": 44,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "splush-ami": {
+      "field_id": "splush-ami",
+      "fetched_at": "2026-04-18T23:06:28.487Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.2,
+          "tmin": 10.7,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 18.3,
+          "tmin": 10.9,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.1,
+          "tmin": 11.7,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.9,
+          "tmin": 11.6,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21.1,
+          "tmin": 16,
+          "precip_prob": 83,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.4,
+          "tmin": 11.6,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 10,
+          "precip_prob": 44,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "asylum-ryugasaki": {
+      "field_id": "asylum-ryugasaki",
+      "fetched_at": "2026-04-18T23:06:28.594Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.5,
+          "tmin": 9.7,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 10,
+          "precip_prob": 5,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.8,
+          "tmin": 10.8,
+          "precip_prob": 8,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.1,
+          "tmin": 11,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 21,
+          "tmin": 16.5,
+          "precip_prob": 83,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.8,
+          "tmin": 12.9,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.2,
+          "tmin": 10.1,
+          "precip_prob": 44,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "capture-sakura": {
+      "field_id": "capture-sakura",
+      "fetched_at": "2026-04-18T23:06:28.628Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 24,
+          "tmin": 8.3,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20,
+          "tmin": 9.2,
+          "precip_prob": 5,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 21.3,
+          "tmin": 7.6,
+          "precip_prob": 63,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.1,
+          "tmin": 5.9,
+          "precip_prob": 16,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.3,
+          "tmin": 11.4,
+          "precip_prob": 80,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 16.2,
+          "tmin": 9.1,
+          "precip_prob": 85,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.3,
+          "tmin": 6.6,
+          "precip_prob": 40,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "heat-tochigi": {
+      "field_id": "heat-tochigi",
+      "fetched_at": "2026-04-18T23:06:28.798Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 24,
+          "tmin": 10.2,
+          "precip_prob": 0,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 19.4,
+          "tmin": 9.2,
+          "precip_prob": 3,
+          "weather_code": 1,
+          "summary": "晴"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20,
+          "tmin": 9.6,
+          "precip_prob": 38,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 22.6,
+          "tmin": 6,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 20,
+          "tmin": 11.5,
+          "precip_prob": 81,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 17.5,
+          "tmin": 7.6,
+          "precip_prob": 85,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.8,
+          "tmin": 4.6,
+          "precip_prob": 44,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "battle-factory": {
+      "field_id": "battle-factory",
+      "fetched_at": "2026-04-18T23:06:28.828Z",
+      "fetch_ok": true,
+      "fetch_error": null,
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": "サイトは現在工事中です。",
+      "image_urls": [
+        "https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-landscape.jpg"
+      ],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 24.3,
+          "tmin": 8.8,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
@@ -2752,48 +2723,56 @@
         {
           "date": "2026-04-20",
           "tmax": 20.7,
-          "tmin": 11.3,
+          "tmin": 10.7,
           "precip_prob": 5,
-          "weather_code": 2,
-          "summary": "薄曇"
+          "weather_code": 1,
+          "summary": "晴"
         },
         {
           "date": "2026-04-21",
-          "tmax": 25.6,
-          "tmin": 10.8,
-          "precip_prob": 23,
-          "weather_code": 51,
-          "summary": "霧雨"
+          "tmax": 22.3,
+          "tmin": 10,
+          "precip_prob": 18,
+          "weather_code": 55,
+          "summary": "強霧雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 23.6,
-          "tmin": 6.3,
-          "precip_prob": 7,
+          "tmax": 22.6,
+          "tmin": 9,
+          "precip_prob": 13,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 14.9,
-          "tmin": 10.9,
-          "precip_prob": 81,
+          "tmax": 20,
+          "tmin": 13.6,
+          "precip_prob": 75,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 24.6,
-          "tmin": 14,
+          "tmax": 16.5,
+          "tmin": 10.2,
           "precip_prob": 81,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 23.4,
+          "tmin": 8.1,
+          "precip_prob": 24,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "valor-takasaki": {
-      "field_id": "valor-takasaki",
-      "fetched_at": "2026-04-18T06:44:27.040Z",
+    "battle-zone-ota": {
+      "field_id": "battle-zone-ota",
+      "fetched_at": "2026-04-18T23:06:28.843Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2802,71 +2781,139 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 20.5,
-          "tmin": 7.5,
+          "date": "2026-04-19",
+          "tmax": 23.5,
+          "tmin": 9.7,
           "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
+          "date": "2026-04-20",
+          "tmax": 20.4,
+          "tmin": 10.9,
+          "precip_prob": 3,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 21.8,
+          "tmin": 10.7,
+          "precip_prob": 23,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 23.7,
+          "tmin": 9.1,
+          "precip_prob": 9,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.2,
+          "tmin": 13.3,
+          "precip_prob": 71,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.7,
+          "tmin": 9.5,
+          "precip_prob": 76,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 23.9,
+          "tmin": 5.5,
+          "precip_prob": 24,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "valor-takasaki": {
+      "field_id": "valor-takasaki",
+      "fetched_at": "2026-04-18T23:06:28.971Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
           "date": "2026-04-19",
-          "tmax": 23.1,
-          "tmin": 10.5,
+          "tmax": 23,
+          "tmin": 10.7,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 20.1,
-          "tmin": 11,
-          "precip_prob": 5,
+          "tmax": 19.5,
+          "tmin": 10.6,
+          "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 24.1,
-          "tmin": 9.1,
-          "precip_prob": 41,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 22.9,
+          "tmin": 9.2,
+          "precip_prob": 38,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.9,
-          "tmin": 7.6,
-          "precip_prob": 14,
+          "tmax": 22.2,
+          "tmin": 8.3,
+          "precip_prob": 12,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 14.1,
-          "tmin": 11.6,
-          "precip_prob": 83,
+          "tmax": 17.6,
+          "tmin": 13,
+          "precip_prob": 86,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 23.2,
-          "tmin": 13.6,
+          "tmax": 17.5,
+          "tmin": 8.8,
           "precip_prob": 86,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.9,
+          "tmin": 6.1,
+          "precip_prob": 23,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "hills-maebashi": {
       "field_id": "hills-maebashi",
-      "fetched_at": "2026-04-18T06:44:27.123Z",
+      "fetched_at": "2026-04-18T23:06:29.036Z",
       "fetch_ok": true,
       "fetch_error": null,
       "upcoming_schedule": [],
       "recent_cancellations": [],
-      "latest_news": "アカウント情報ご確認のお願いの重要なお知らせが掲載されています。",
+      "latest_news": "アカウント情報ご確認のお願いに関する重要なお知らせが掲載されています。",
       "image_urls": [
         "https://www.hills-field.com/cdn/shop/files/hf_logo.png?v=1764204596&width=320",
         "https://www.hills-field.com/cdn/shop/files/preview_images/9157a1a8364a434490bd4e19de80a46e.thumbnail.0000000000_480x.jpg?v=1775137574",
@@ -2879,66 +2926,66 @@
       ],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 20.7,
-          "tmin": 8,
+          "date": "2026-04-19",
+          "tmax": 23,
+          "tmin": 11.4,
           "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
-          "date": "2026-04-19",
-          "tmax": 23.1,
-          "tmin": 12,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
           "date": "2026-04-20",
-          "tmax": 20.5,
-          "tmin": 12.4,
-          "precip_prob": 5,
+          "tmax": 19.9,
+          "tmin": 11.6,
+          "precip_prob": 8,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 24.2,
-          "tmin": 11.2,
-          "precip_prob": 60,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 21.5,
+          "tmin": 9.9,
+          "precip_prob": 63,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.1,
-          "tmin": 8.6,
-          "precip_prob": 10,
+          "tmax": 22.4,
+          "tmin": 9.2,
+          "precip_prob": 12,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 14,
-          "tmin": 10.5,
-          "precip_prob": 78,
+          "tmax": 19,
+          "tmin": 12.9,
+          "precip_prob": 87,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 24.8,
-          "tmin": 13.9,
-          "precip_prob": 82,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 18.3,
+          "tmin": 9.6,
+          "precip_prob": 87,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 23,
+          "tmin": 7.4,
+          "precip_prob": 22,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "neos-sapporo": {
       "field_id": "neos-sapporo",
-      "fetched_at": "2026-04-18T06:44:27.280Z",
+      "fetched_at": "2026-04-18T23:06:29.216Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2947,58 +2994,58 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 15.8,
-          "tmin": 6.5,
-          "precip_prob": 45,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 13.7,
-          "tmin": 2.6,
+          "tmax": 12.1,
+          "tmin": 2.4,
           "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-20",
-          "tmax": 16.5,
-          "tmin": 1.8,
-          "precip_prob": 37,
+          "tmax": 17.1,
+          "tmin": 1.7,
+          "precip_prob": 43,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 12.7,
-          "tmin": 3.7,
-          "precip_prob": 97,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 11.6,
+          "tmin": 4.7,
+          "precip_prob": 100,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 8.5,
-          "tmin": 2.7,
-          "precip_prob": 66,
+          "tmax": 8.9,
+          "tmin": 3.1,
+          "precip_prob": 75,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.1,
-          "tmin": 7.1,
-          "precip_prob": 15,
-          "weather_code": 61,
-          "summary": "小雨"
+          "tmax": 13.3,
+          "tmin": 4.3,
+          "precip_prob": 18,
+          "weather_code": 3,
+          "summary": "曇り"
         },
         {
           "date": "2026-04-24",
-          "tmax": 9.4,
-          "tmin": 8.3,
-          "precip_prob": 50,
+          "tmax": 9.2,
+          "tmin": 2,
+          "precip_prob": 33,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 12.2,
+          "tmin": 0.7,
+          "precip_prob": 35,
           "weather_code": 61,
           "summary": "小雨"
         }
@@ -3006,7 +3053,7 @@
     },
     "desperado-ebetsu": {
       "field_id": "desperado-ebetsu",
-      "fetched_at": "2026-04-18T06:44:27.310Z",
+      "fetched_at": "2026-04-18T23:06:29.382Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3015,202 +3062,202 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 19.2,
-          "tmin": 6.2,
-          "precip_prob": 23,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 12.7,
-          "tmin": 6.6,
+          "tmax": 11.6,
+          "tmin": 7.2,
           "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
+          "weather_code": 2,
+          "summary": "薄曇"
         },
         {
           "date": "2026-04-20",
-          "tmax": 15,
-          "tmin": 3.3,
-          "precip_prob": 25,
+          "tmax": 14.2,
+          "tmin": 4,
+          "precip_prob": 21,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 14.9,
-          "tmin": 7.5,
-          "precip_prob": 98,
-          "weather_code": 95,
-          "summary": "雷雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 10.6,
-          "tmin": 5.2,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.2,
-          "tmin": 3.7,
-          "precip_prob": 12,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 12.1,
-          "tmin": 9.2,
-          "precip_prob": 51,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "heat-ishikari": {
-      "field_id": "heat-ishikari",
-      "fetched_at": "2026-04-18T06:44:27.508Z",
-      "fetch_ok": false,
-      "fetch_error": "no official_url",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.3,
-          "tmin": 6.3,
-          "precip_prob": 30,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 12.8,
-          "tmin": 6.7,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 15.1,
-          "tmin": 3.4,
-          "precip_prob": 33,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 15,
-          "tmin": 7.6,
-          "precip_prob": 97,
-          "weather_code": 95,
-          "summary": "雷雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 10.7,
-          "tmin": 5.3,
-          "precip_prob": 30,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 18.3,
-          "tmin": 3.8,
-          "precip_prob": 12,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 12.2,
-          "tmin": 9.3,
-          "precip_prob": 49,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "agito-aomori": {
-      "field_id": "agito-aomori",
-      "fetched_at": "2026-04-18T06:44:27.613Z",
-      "fetch_ok": false,
-      "fetch_error": "no official_url",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 17.2,
-          "tmin": 9.9,
+          "tmax": 14.2,
+          "tmin": 7.3,
           "precip_prob": 100,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
-          "date": "2026-04-19",
-          "tmax": 16.2,
-          "tmin": 7.6,
-          "precip_prob": 0,
-          "weather_code": 0,
-          "summary": "快晴"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.8,
-          "tmin": 5.4,
-          "precip_prob": 13,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 14.9,
-          "tmin": 8,
-          "precip_prob": 99,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
           "date": "2026-04-22",
-          "tmax": 11.6,
-          "tmin": 7,
+          "tmax": 11.5,
+          "tmin": 6.9,
           "precip_prob": 15,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 15.3,
-          "tmin": 5.5,
-          "precip_prob": 20,
+          "tmax": 13.1,
+          "tmin": 4.8,
+          "precip_prob": 21,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 10.1,
+          "tmin": 6.2,
+          "precip_prob": 35,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 14.1,
+          "tmin": 4.1,
+          "precip_prob": 25,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        }
+      ]
+    },
+    "heat-ishikari": {
+      "field_id": "heat-ishikari",
+      "fetched_at": "2026-04-18T23:06:29.624Z",
+      "fetch_ok": false,
+      "fetch_error": "no official_url",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 11.7,
+          "tmin": 7.3,
+          "precip_prob": 0,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 14.3,
+          "tmin": 4.1,
+          "precip_prob": 34,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 14.3,
+          "tmin": 7.4,
+          "precip_prob": 100,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 11.6,
+          "tmin": 7,
+          "precip_prob": 33,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 13.2,
+          "tmin": 4.9,
+          "precip_prob": 18,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 10.2,
+          "tmin": 6.3,
+          "precip_prob": 33,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 14.2,
+          "tmin": 4.2,
+          "precip_prob": 30,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        }
+      ]
+    },
+    "agito-aomori": {
+      "field_id": "agito-aomori",
+      "fetched_at": "2026-04-18T23:06:29.749Z",
+      "fetch_ok": false,
+      "fetch_error": "no official_url",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 16.3,
+          "tmin": 7.1,
+          "precip_prob": 0,
+          "weather_code": 0,
+          "summary": "快晴"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.7,
+          "tmin": 5.8,
+          "precip_prob": 6,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 14.2,
+          "tmin": 7.6,
+          "precip_prob": 100,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 12.1,
+          "tmin": 7.6,
+          "precip_prob": 10,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 16.6,
+          "tmin": 10.4,
+          "precip_prob": 29,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 13.4,
-          "tmin": 9.6,
-          "precip_prob": 63,
+          "tmax": 12.8,
+          "tmin": 5.8,
+          "precip_prob": 51,
           "weather_code": 61,
           "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 14,
+          "tmin": 4.4,
+          "precip_prob": 40,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "pro-g-morioka": {
       "field_id": "pro-g-morioka",
-      "fetched_at": "2026-04-18T06:44:27.627Z",
+      "fetched_at": "2026-04-18T23:06:29.873Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3218,14 +3265,6 @@
       "latest_news": null,
       "image_urls": [],
       "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 15.5,
-          "tmin": 5.1,
-          "precip_prob": 60,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
         {
           "date": "2026-04-19",
           "tmax": 21.3,
@@ -3236,49 +3275,57 @@
         },
         {
           "date": "2026-04-20",
-          "tmax": 19.6,
-          "tmin": 5.7,
-          "precip_prob": 1,
+          "tmax": 19.7,
+          "tmin": 5.9,
+          "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 15.2,
-          "tmin": 7.3,
+          "tmax": 14.7,
+          "tmin": 6.5,
           "precip_prob": 100,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 13,
-          "tmin": 3.7,
-          "precip_prob": 10,
-          "weather_code": 3,
-          "summary": "曇り"
+          "tmax": 13.5,
+          "tmin": 5.2,
+          "precip_prob": 3,
+          "weather_code": 51,
+          "summary": "霧雨"
         },
         {
           "date": "2026-04-23",
-          "tmax": 13.9,
-          "tmin": 2.2,
-          "precip_prob": 43,
+          "tmax": 17.8,
+          "tmin": 3.3,
+          "precip_prob": 54,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
           "tmax": 15,
-          "tmin": 8,
-          "precip_prob": 72,
+          "tmin": 4.5,
+          "precip_prob": 60,
           "weather_code": 63,
           "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 18,
+          "tmin": 1.7,
+          "precip_prob": 39,
+          "weather_code": 2,
+          "summary": "薄曇"
         }
       ]
     },
     "daytona-sendai": {
       "field_id": "daytona-sendai",
-      "fetched_at": "2026-04-18T06:44:27.736Z",
+      "fetched_at": "2026-04-18T23:06:30.714Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3287,66 +3334,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 18.1,
-          "tmin": 5.3,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.3,
-          "tmin": 8.7,
+          "tmax": 22.5,
+          "tmin": 8.5,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 14.8,
-          "tmin": 6.9,
+          "tmax": 14,
+          "tmin": 6.6,
           "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 17.7,
-          "tmin": 7.9,
-          "precip_prob": 75,
-          "weather_code": 63,
-          "summary": "雨"
+          "tmax": 16.6,
+          "tmin": 7.5,
+          "precip_prob": 70,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 16.1,
-          "tmin": 6.3,
-          "precip_prob": 2,
+          "tmax": 17.6,
+          "tmin": 9.8,
+          "precip_prob": 4,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 13.1,
-          "tmin": 4.2,
-          "precip_prob": 58,
-          "weather_code": 61,
-          "summary": "小雨"
+          "tmax": 18.9,
+          "tmin": 6.9,
+          "precip_prob": 70,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 21.2,
-          "tmin": 12.2,
-          "precip_prob": 69,
+          "tmax": 15.6,
+          "tmin": 6.2,
+          "precip_prob": 81,
           "weather_code": 63,
           "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.4,
+          "tmin": 2.9,
+          "precip_prob": 30,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "seals-sendai": {
       "field_id": "seals-sendai",
-      "fetched_at": "2026-04-18T06:44:28.092Z",
+      "fetched_at": "2026-04-18T23:06:30.956Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3355,66 +3402,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 18.1,
-          "tmin": 5.3,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.3,
-          "tmin": 8.7,
+          "tmax": 22.5,
+          "tmin": 8.5,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 14.8,
-          "tmin": 6.9,
+          "tmax": 14,
+          "tmin": 6.6,
           "precip_prob": 0,
           "weather_code": 2,
           "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 17.7,
-          "tmin": 7.9,
-          "precip_prob": 75,
-          "weather_code": 63,
-          "summary": "雨"
+          "tmax": 16.6,
+          "tmin": 7.5,
+          "precip_prob": 70,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 16.1,
-          "tmin": 6.3,
-          "precip_prob": 2,
+          "tmax": 17.6,
+          "tmin": 9.8,
+          "precip_prob": 4,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 13.1,
-          "tmin": 4.2,
-          "precip_prob": 58,
-          "weather_code": 61,
-          "summary": "小雨"
+          "tmax": 18.9,
+          "tmin": 6.9,
+          "precip_prob": 70,
+          "weather_code": 63,
+          "summary": "雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 21.2,
-          "tmin": 12.2,
-          "precip_prob": 69,
+          "tmax": 15.6,
+          "tmin": 6.2,
+          "precip_prob": 81,
           "weather_code": 63,
           "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.4,
+          "tmin": 2.9,
+          "precip_prob": 30,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "desert-union-fukushima": {
       "field_id": "desert-union-fukushima",
-      "fetched_at": "2026-04-18T06:44:28.319Z",
+      "fetched_at": "2026-04-18T23:06:31.198Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3423,66 +3470,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 5.2,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.4,
-          "tmin": 8.2,
+          "tmax": 22.6,
+          "tmin": 7.9,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 19.2,
-          "tmin": 7.4,
-          "precip_prob": 0,
+          "tmax": 18.6,
+          "tmin": 7.2,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 17.4,
-          "tmin": 9.8,
-          "precip_prob": 59,
-          "weather_code": 63,
-          "summary": "雨"
+          "tmax": 16.1,
+          "tmin": 8.5,
+          "precip_prob": 60,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 15.5,
-          "tmin": 7,
-          "precip_prob": 6,
+          "tmax": 17.9,
+          "tmin": 8.7,
+          "precip_prob": 7,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 13.8,
-          "tmin": 6.9,
-          "precip_prob": 69,
+          "tmax": 17.1,
+          "tmin": 9.4,
+          "precip_prob": 77,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 19.6,
-          "tmin": 12.7,
-          "precip_prob": 80,
-          "weather_code": 63,
-          "summary": "雨"
+          "tmax": 14.9,
+          "tmin": 4.7,
+          "precip_prob": 85,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.9,
+          "tmin": 2.8,
+          "precip_prob": 32,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "ventura-hokuto": {
       "field_id": "ventura-hokuto",
-      "fetched_at": "2026-04-18T06:44:28.486Z",
+      "fetched_at": "2026-04-18T23:06:31.378Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3491,406 +3538,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 21.9,
-          "tmin": 7.5,
-          "precip_prob": 3,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 23.8,
-          "tmin": 9.4,
-          "precip_prob": 0,
+          "tmax": 22.9,
+          "tmin": 10,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 19.7,
-          "tmin": 10.4,
+          "tmax": 20.2,
+          "tmin": 10.6,
           "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
+          "weather_code": 2,
+          "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 21.5,
-          "tmin": 5.7,
-          "precip_prob": 58,
-          "weather_code": 51,
+          "tmax": 20.9,
+          "tmin": 9.5,
+          "precip_prob": 93,
+          "weather_code": 53,
           "summary": "霧雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 14.9,
-          "tmin": 5.2,
+          "tmax": 14.2,
+          "tmin": 5.1,
           "precip_prob": 11,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 8.6,
-          "tmin": 6.1,
-          "precip_prob": 88,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 16.6,
-          "tmin": 8.4,
-          "precip_prob": 90,
-          "weather_code": 63,
-          "summary": "雨"
-        }
-      ]
-    },
-    "delta-force-fujinomiya": {
-      "field_id": "delta-force-fujinomiya",
-      "fetched_at": "2026-04-18T06:44:28.548Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.8,
-          "tmin": 10,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.2,
-          "tmin": 11.7,
-          "precip_prob": 20,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 19.9,
-          "tmin": 12.6,
-          "precip_prob": 10,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 24.3,
-          "tmin": 9.7,
-          "precip_prob": 56,
-          "weather_code": 53,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 18.4,
-          "tmin": 7.9,
-          "precip_prob": 14,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 14.4,
-          "tmin": 12,
-          "precip_prob": 91,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 24.6,
-          "tmin": 12.8,
-          "precip_prob": 92,
-          "weather_code": 65,
-          "summary": "強雨"
-        }
-      ]
-    },
-    "bravo-point-takashima": {
-      "field_id": "bravo-point-takashima",
-      "fetched_at": "2026-04-18T06:44:28.750Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.2,
-          "tmin": 8.5,
-          "precip_prob": 38,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.2,
-          "tmin": 12.1,
-          "precip_prob": 0,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.8,
-          "tmin": 11.1,
-          "precip_prob": 8,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 17.8,
-          "tmin": 9.5,
-          "precip_prob": 98,
-          "weather_code": 65,
-          "summary": "強雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 16.8,
-          "tmin": 11.4,
-          "precip_prob": 13,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 16.6,
-          "tmin": 11.1,
-          "precip_prob": 94,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 17.2,
-          "tmin": 12.9,
-          "precip_prob": 94,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        }
-      ]
-    },
-    "asobiba-osaka": {
-      "field_id": "asobiba-osaka",
-      "fetched_at": "2026-04-18T06:44:28.897Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.4,
-          "tmin": 11.5,
-          "precip_prob": 5,
-          "weather_code": 1,
-          "summary": "晴"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.5,
-          "tmin": 12.9,
-          "precip_prob": 8,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 22.4,
-          "tmin": 13.8,
-          "precip_prob": 15,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.5,
-          "tmin": 14.3,
-          "precip_prob": 83,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.6,
-          "tmin": 13.8,
-          "precip_prob": 16,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 16.4,
-          "tmin": 11.9,
-          "precip_prob": 94,
-          "weather_code": 63,
-          "summary": "雨"
-        },
-        {
-          "date": "2026-04-24",
-          "tmax": 19.1,
-          "tmin": 14.8,
-          "precip_prob": 94,
-          "weather_code": 80,
-          "summary": "にわか雨"
-        }
-      ]
-    },
-    "headshot-hyogo": {
-      "field_id": "headshot-hyogo",
-      "fetched_at": "2026-04-18T06:44:29.011Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 19.9,
-          "tmin": 11,
-          "precip_prob": 10,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 23.2,
-          "tmin": 12.2,
-          "precip_prob": 5,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 21.4,
-          "tmin": 12.6,
-          "precip_prob": 20,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 21.6,
-          "tmin": 10.6,
-          "precip_prob": 75,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 18.7,
-          "tmin": 7.5,
-          "precip_prob": 19,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.6,
-          "tmin": 10.2,
+          "tmax": 8.8,
+          "tmin": 6.7,
           "precip_prob": 95,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 16.7,
-          "tmin": 9.7,
-          "precip_prob": 94,
-          "weather_code": 61,
-          "summary": "小雨"
-        }
-      ]
-    },
-    "madbull-hiroshima": {
-      "field_id": "madbull-hiroshima",
-      "fetched_at": "2026-04-18T06:44:29.138Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed",
-      "upcoming_schedule": [],
-      "recent_cancellations": [],
-      "latest_news": null,
-      "image_urls": [],
-      "weather": [
-        {
-          "date": "2026-04-18",
-          "tmax": 21.4,
-          "tmin": 12.3,
-          "precip_prob": 80,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-19",
-          "tmax": 22.9,
-          "tmin": 12,
-          "precip_prob": 35,
-          "weather_code": 3,
-          "summary": "曇り"
-        },
-        {
-          "date": "2026-04-20",
-          "tmax": 20.8,
-          "tmin": 12.3,
-          "precip_prob": 45,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-21",
-          "tmax": 20.6,
-          "tmin": 10.7,
-          "precip_prob": 8,
-          "weather_code": 51,
-          "summary": "霧雨"
-        },
-        {
-          "date": "2026-04-22",
-          "tmax": 20.4,
-          "tmin": 9.5,
-          "precip_prob": 39,
-          "weather_code": 61,
-          "summary": "小雨"
-        },
-        {
-          "date": "2026-04-23",
-          "tmax": 13.3,
-          "tmin": 10.3,
-          "precip_prob": 93,
+          "tmax": 10.8,
+          "tmin": 4.6,
+          "precip_prob": 95,
           "weather_code": 63,
           "summary": "雨"
         },
         {
-          "date": "2026-04-24",
-          "tmax": 16.3,
-          "tmin": 9.4,
-          "precip_prob": 78,
-          "weather_code": 45,
-          "summary": "霧"
+          "date": "2026-04-25",
+          "tmax": 16.8,
+          "tmin": 4.4,
+          "precip_prob": 39,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
-    "gunship-okayama": {
-      "field_id": "gunship-okayama",
-      "fetched_at": "2026-04-18T06:44:29.171Z",
+    "delta-force-fujinomiya": {
+      "field_id": "delta-force-fujinomiya",
+      "fetched_at": "2026-04-18T23:06:31.553Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3899,66 +3606,406 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 20.5,
-          "tmin": 12.3,
-          "precip_prob": 30,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 21.4,
-          "tmin": 12.5,
+          "tmax": 22,
+          "tmin": 11.5,
           "precip_prob": 20,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 20.4,
-          "tmin": 13.2,
-          "precip_prob": 33,
-          "weather_code": 3,
-          "summary": "曇り"
+          "tmax": 20.3,
+          "tmin": 12.5,
+          "precip_prob": 9,
+          "weather_code": 2,
+          "summary": "薄曇"
         },
         {
           "date": "2026-04-21",
-          "tmax": 21.9,
-          "tmin": 8.1,
-          "precip_prob": 23,
+          "tmax": 21.3,
+          "tmin": 12.9,
+          "precip_prob": 80,
           "weather_code": 53,
           "summary": "霧雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 19.2,
-          "tmin": 4.6,
-          "precip_prob": 25,
+          "tmax": 19.7,
+          "tmin": 8.3,
+          "precip_prob": 8,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 12.7,
-          "tmin": 9.6,
+          "tmax": 17.1,
+          "tmin": 12.1,
+          "precip_prob": 95,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 15.9,
+          "tmin": 11.3,
+          "precip_prob": 95,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 19.7,
+          "tmin": 10.4,
+          "precip_prob": 39,
+          "weather_code": 45,
+          "summary": "霧"
+        }
+      ]
+    },
+    "bravo-point-takashima": {
+      "field_id": "bravo-point-takashima",
+      "fetched_at": "2026-04-18T23:06:31.824Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 20.5,
+          "tmin": 12.9,
+          "precip_prob": 0,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 20.5,
+          "tmin": 11.4,
+          "precip_prob": 8,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 15.2,
+          "tmin": 9.3,
+          "precip_prob": 100,
+          "weather_code": 65,
+          "summary": "強雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 19.5,
+          "tmin": 10.3,
+          "precip_prob": 15,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 18.8,
+          "tmin": 14.6,
+          "precip_prob": 87,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 19.1,
+          "tmin": 10.6,
+          "precip_prob": 89,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 24.5,
+          "tmin": 8.5,
+          "precip_prob": 19,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "asobiba-osaka": {
+      "field_id": "asobiba-osaka",
+      "fetched_at": "2026-04-18T23:06:32.096Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 22.4,
+          "tmin": 12.7,
+          "precip_prob": 3,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 23,
+          "tmin": 13.3,
+          "precip_prob": 10,
+          "weather_code": 51,
+          "summary": "霧雨"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 21.4,
+          "tmin": 13.1,
+          "precip_prob": 95,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20.6,
+          "tmin": 12.1,
+          "precip_prob": 15,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 16.7,
+          "tmin": 14.9,
+          "precip_prob": 89,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.4,
+          "tmin": 13.1,
+          "precip_prob": 89,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 20,
+          "tmin": 10.7,
+          "precip_prob": 13,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "headshot-hyogo": {
+      "field_id": "headshot-hyogo",
+      "fetched_at": "2026-04-18T23:06:32.261Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 21.2,
+          "tmin": 12.8,
+          "precip_prob": 5,
+          "weather_code": 2,
+          "summary": "薄曇"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 21.8,
+          "tmin": 12,
+          "precip_prob": 10,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.7,
+          "tmin": 10.3,
+          "precip_prob": 88,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 21.1,
+          "tmin": 6.7,
+          "precip_prob": 15,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 19.2,
+          "tmin": 12.8,
+          "precip_prob": 86,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 19.4,
+          "tmin": 6.7,
+          "precip_prob": 87,
+          "weather_code": 80,
+          "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.2,
+          "tmin": 4.6,
+          "precip_prob": 13,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "madbull-hiroshima": {
+      "field_id": "madbull-hiroshima",
+      "fetched_at": "2026-04-18T23:06:32.496Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 20.2,
+          "tmin": 12.1,
+          "precip_prob": 58,
+          "weather_code": 53,
+          "summary": "霧雨"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 21.8,
+          "tmin": 12.3,
+          "precip_prob": 50,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 20.7,
+          "tmin": 10.2,
+          "precip_prob": 3,
+          "weather_code": 51,
+          "summary": "霧雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 20,
+          "tmin": 8.5,
+          "precip_prob": 44,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 16.2,
+          "tmin": 10.5,
           "precip_prob": 94,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 16.2,
-          "tmin": 9.2,
-          "precip_prob": 86,
-          "weather_code": 45,
-          "summary": "霧"
+          "tmax": 20,
+          "tmin": 9.6,
+          "precip_prob": 75,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 24.2,
+          "tmin": 7.1,
+          "precip_prob": 10,
+          "weather_code": 3,
+          "summary": "曇り"
+        }
+      ]
+    },
+    "gunship-okayama": {
+      "field_id": "gunship-okayama",
+      "fetched_at": "2026-04-18T23:06:32.740Z",
+      "fetch_ok": false,
+      "fetch_error": "fetch failed",
+      "upcoming_schedule": [],
+      "recent_cancellations": [],
+      "latest_news": null,
+      "image_urls": [],
+      "weather": [
+        {
+          "date": "2026-04-19",
+          "tmax": 20.3,
+          "tmin": 12.9,
+          "precip_prob": 18,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-20",
+          "tmax": 21.3,
+          "tmin": 13.3,
+          "precip_prob": 13,
+          "weather_code": 51,
+          "summary": "霧雨"
+        },
+        {
+          "date": "2026-04-21",
+          "tmax": 22.4,
+          "tmin": 11.4,
+          "precip_prob": 25,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-22",
+          "tmax": 19.7,
+          "tmin": 3.7,
+          "precip_prob": 28,
+          "weather_code": 3,
+          "summary": "曇り"
+        },
+        {
+          "date": "2026-04-23",
+          "tmax": 15.4,
+          "tmin": 10.5,
+          "precip_prob": 91,
+          "weather_code": 63,
+          "summary": "雨"
+        },
+        {
+          "date": "2026-04-24",
+          "tmax": 18.8,
+          "tmin": 6.9,
+          "precip_prob": 79,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22,
+          "tmin": 3.6,
+          "precip_prob": 5,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "hell-fukuoka": {
       "field_id": "hell-fukuoka",
-      "fetched_at": "2026-04-18T06:44:29.308Z",
+      "fetched_at": "2026-04-18T23:06:32.830Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3967,66 +4014,66 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 22.5,
-          "tmin": 15.3,
-          "precip_prob": 43,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 21.3,
-          "tmin": 16.2,
-          "precip_prob": 78,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 20.2,
+          "tmin": 15.8,
+          "precip_prob": 98,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-20",
           "tmax": 23,
-          "tmin": 15.2,
-          "precip_prob": 18,
+          "tmin": 15.3,
+          "precip_prob": 33,
           "weather_code": 53,
           "summary": "霧雨"
         },
         {
           "date": "2026-04-21",
-          "tmax": 20.3,
-          "tmin": 12,
+          "tmax": 20.5,
+          "tmin": 12.8,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-22",
-          "tmax": 18.6,
-          "tmin": 10.9,
-          "precip_prob": 57,
+          "tmax": 19.5,
+          "tmin": 9,
+          "precip_prob": 68,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-23",
-          "tmax": 19.1,
-          "tmin": 14.6,
+          "tmax": 20.4,
+          "tmin": 14.7,
           "precip_prob": 96,
           "weather_code": 80,
           "summary": "にわか雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 17.7,
-          "tmin": 12.7,
-          "precip_prob": 63,
+          "tmax": 17.8,
+          "tmin": 11.4,
+          "precip_prob": 54,
           "weather_code": 61,
           "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.5,
+          "tmin": 8.8,
+          "precip_prob": 7,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "break-fukuoka": {
       "field_id": "break-fukuoka",
-      "fetched_at": "2026-04-18T06:44:29.396Z",
+      "fetched_at": "2026-04-18T23:06:32.984Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4035,58 +4082,58 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 21.8,
-          "tmin": 15.1,
-          "precip_prob": 43,
-          "weather_code": 55,
-          "summary": "強霧雨"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 21.5,
-          "tmin": 15.8,
-          "precip_prob": 78,
-          "weather_code": 53,
-          "summary": "霧雨"
+          "tmax": 20.2,
+          "tmin": 15.6,
+          "precip_prob": 98,
+          "weather_code": 61,
+          "summary": "小雨"
         },
         {
           "date": "2026-04-20",
-          "tmax": 21.8,
-          "tmin": 14.5,
-          "precip_prob": 18,
+          "tmax": 21.3,
+          "tmin": 15.1,
+          "precip_prob": 33,
           "weather_code": 53,
           "summary": "霧雨"
         },
         {
           "date": "2026-04-21",
-          "tmax": 19.2,
-          "tmin": 13,
+          "tmax": 18.5,
+          "tmin": 12.7,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-22",
-          "tmax": 19.2,
-          "tmin": 10.5,
-          "precip_prob": 57,
-          "weather_code": 61,
-          "summary": "小雨"
+          "tmax": 19.6,
+          "tmin": 9.8,
+          "precip_prob": 68,
+          "weather_code": 3,
+          "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 19.9,
-          "tmin": 15.1,
+          "tmax": 20.9,
+          "tmin": 14.9,
           "precip_prob": 96,
           "weather_code": 80,
           "summary": "にわか雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 17.2,
-          "tmin": 12.3,
-          "precip_prob": 63,
+          "tmax": 17,
+          "tmin": 11.3,
+          "precip_prob": 54,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 21.3,
+          "tmin": 8.4,
+          "precip_prob": 7,
           "weather_code": 3,
           "summary": "曇り"
         }
@@ -4094,7 +4141,7 @@
     },
     "kingcharan-toyota": {
       "field_id": "kingcharan-toyota",
-      "fetched_at": "2026-04-18T06:44:29.536Z",
+      "fetched_at": "2026-04-18T23:06:32.995Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4103,71 +4150,71 @@
       "image_urls": [],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 22.7,
-          "tmin": 10.4,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 22.6,
-          "tmin": 12,
+          "tmax": 22,
+          "tmin": 12.7,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 22.9,
-          "tmin": 13.7,
-          "precip_prob": 3,
+          "tmax": 21.9,
+          "tmin": 13.2,
+          "precip_prob": 10,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 22.1,
-          "tmin": 13.2,
-          "precip_prob": 50,
+          "tmax": 21.1,
+          "tmin": 10.9,
+          "precip_prob": 65,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22.4,
-          "tmin": 10.1,
-          "precip_prob": 15,
+          "tmax": 22.5,
+          "tmin": 10.2,
+          "precip_prob": 10,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 17.7,
-          "tmin": 14.3,
+          "tmax": 17.2,
+          "tmin": 14.5,
           "precip_prob": 92,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 20.6,
-          "tmin": 14.4,
+          "tmax": 24.5,
+          "tmin": 14.8,
           "precip_prob": 93,
           "weather_code": 80,
           "summary": "にわか雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 23.6,
+          "tmin": 11.1,
+          "precip_prob": 17,
+          "weather_code": 3,
+          "summary": "曇り"
         }
       ]
     },
     "sabage-paradise": {
       "field_id": "sabage-paradise",
-      "fetched_at": "2026-04-18T06:44:29.630Z",
+      "fetched_at": "2026-04-18T23:06:33.166Z",
       "fetch_ok": true,
       "fetch_error": null,
       "upcoming_schedule": [],
       "recent_cancellations": [],
-      "latest_news": "定例会は予約人数8名様から開催。飛び入り参加も大歓迎。直近の開催予定は公式Twitterでも発信中。",
+      "latest_news": "定例会は予約人数8名様から開催。直近の開催予定は公式Twitterでも発信中。イベントや貸切で入場できない場合があるため、事前に電話確認を推奨。",
       "image_urls": [
         "https://survivalgameparadise.com/wp-content/uploads/2023/09/S__52502858__2_-removebg-preview1.png",
         "https://survivalgameparadise.com/wp-content/uploads/2023/09/3955024.png",
@@ -4180,60 +4227,60 @@
       ],
       "weather": [
         {
-          "date": "2026-04-18",
-          "tmax": 19.3,
-          "tmin": 8.8,
-          "precip_prob": 0,
-          "weather_code": 2,
-          "summary": "薄曇"
-        },
-        {
           "date": "2026-04-19",
-          "tmax": 20.9,
-          "tmin": 10.9,
+          "tmax": 22,
+          "tmin": 10.2,
           "precip_prob": 0,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-20",
-          "tmax": 19.6,
-          "tmin": 9.6,
+          "tmax": 19.7,
+          "tmin": 9.9,
           "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-21",
-          "tmax": 22.6,
-          "tmin": 10.9,
-          "precip_prob": 13,
+          "tmax": 20.9,
+          "tmin": 10.3,
+          "precip_prob": 20,
           "weather_code": 63,
           "summary": "雨"
         },
         {
           "date": "2026-04-22",
-          "tmax": 22,
-          "tmin": 10.3,
-          "precip_prob": 6,
+          "tmax": 22.1,
+          "tmin": 9.7,
+          "precip_prob": 3,
           "weather_code": 3,
           "summary": "曇り"
         },
         {
           "date": "2026-04-23",
-          "tmax": 18.4,
-          "tmin": 14.2,
-          "precip_prob": 72,
+          "tmax": 20.9,
+          "tmin": 15.5,
+          "precip_prob": 79,
           "weather_code": 61,
           "summary": "小雨"
         },
         {
           "date": "2026-04-24",
-          "tmax": 24,
-          "tmin": 16.2,
-          "precip_prob": 84,
-          "weather_code": 80,
-          "summary": "にわか雨"
+          "tmax": 18.3,
+          "tmin": 12.2,
+          "precip_prob": 86,
+          "weather_code": 61,
+          "summary": "小雨"
+        },
+        {
+          "date": "2026-04-25",
+          "tmax": 22.5,
+          "tmin": 9,
+          "precip_prob": 43,
+          "weather_code": 45,
+          "summary": "霧"
         }
       ]
     }
