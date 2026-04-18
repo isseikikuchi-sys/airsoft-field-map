@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { height: 100%; }
+
+.maplibregl-popup-content {
+  background: #14181d !important;
+  color: #fff !important;
+  border-radius: 8px;
+  font-size: 13px;
+  padding: 10px 12px !important;
+}
+.maplibregl-popup-tip { border-top-color: #14181d !important; }
