@@ -1,14 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@400;500;700;900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 html, body { height: 100%; }
 
+body {
+  font-family: 'Noto Sans JP', Inter, sans-serif;
+}
+
+.font-display {
+  font-family: 'Tomorrow', 'Noto Sans JP', sans-serif;
+  letter-spacing: 0.02em;
+}
+
 .maplibregl-popup-content {
-  background: #14181d !important;
-  color: #fff !important;
-  border-radius: 8px;
+  background: #26282D !important;
+  color: #F7F7F7 !important;
+  border-radius: 2px;
   font-size: 13px;
   padding: 10px 12px !important;
+  border: 1px solid #14AA32;
 }
-.maplibregl-popup-tip { border-top-color: #14181d !important; }
+.maplibregl-popup-tip { border-top-color: #26282D !important; }

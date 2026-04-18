@@ -44,13 +44,13 @@ export default function MapView({ fields, selectedId, onSelect }: Props) {
         if (f.lat == null || f.lng == null) continue;
         const el = document.createElement('div');
         el.className = 'cursor-pointer';
-        el.innerHTML = `<div style="width:14px;height:14px;border-radius:50%;background:#c7f000;border:2px solid #0b0d10;box-shadow:0 0 0 2px #c7f000aa"></div>`;
+        el.innerHTML = `<div style="width:14px;height:14px;border-radius:50%;background:#14AA32;border:2px solid #000000;box-shadow:0 0 0 2px rgba(20,170,50,0.5)"></div>`;
         el.addEventListener('click', () => onSelect?.(f.id));
         const m = new maplibregl.Marker({ element: el })
           .setLngLat([f.lng, f.lat])
           .setPopup(
             new maplibregl.Popup({ offset: 16 }).setHTML(
-              `<div style="min-width:180px"><b>${escapeHtml(f.name)}</b><br/>${escapeHtml(f.prefecture)} · ${escapeHtml(f.type)}<br/><a href="/field/${f.id}/" style="color:#c7f000">詳細 →</a></div>`
+              `<div style="min-width:180px"><b>${escapeHtml(f.name)}</b><br/>${escapeHtml(f.prefecture)} · ${escapeHtml(f.type)}<br/><a href="/field/${f.id}/" style="color:#14AA32;font-weight:700">詳細 →</a></div>`
             )
           )
           .addTo(map);

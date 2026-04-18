@@ -6,6 +6,12 @@
       "runtimeExecutable": "/Users/issei/.local/node/bin/npm",
       "runtimeArgs": ["run", "dev"],
       "port": 3000
+    },
+    {
+      "name": "airsoft-field-map-prod",
+      "runtimeExecutable": "/Users/issei/.local/node/bin/npx",
+      "runtimeArgs": ["serve", "out", "-p", "3001"],
+      "port": 3001
     }
   ]
 }

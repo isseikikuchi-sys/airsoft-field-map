@@ -32,9 +32,10 @@ export default function HomeView({ fields, lastUpdated }: Props) {
 
   return (
     <div className="flex flex-col h-screen">
-      <header className="border-b border-white/10 px-4 py-3 flex items-center gap-3 flex-wrap">
-        <h1 className="text-lg font-bold tracking-tight">
-          <span className="text-dive-accent">●</span> 全国サバゲーフィールドマップ
+      <header className="border-b border-dive-accent/30 px-4 py-3 flex items-center gap-3 flex-wrap bg-dive-bg">
+        <h1 className="text-lg font-display font-bold tracking-wider uppercase">
+          <span className="text-dive-accent">▼</span> FIELD MAP
+          <span className="ml-2 text-xs font-sans text-dive-muted font-normal normal-case tracking-normal">全国サバゲーフィールド</span>
         </h1>
         <span className="text-xs text-dive-muted">
           {lastUpdated ? `更新: ${new Date(lastUpdated).toLocaleString('ja-JP')}` : '未更新'}
