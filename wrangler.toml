@@ -1,0 +1,6 @@
+name = "airsoft-field-map"
+compatibility_date = "2026-01-01"
+
+[assets]
+directory = "./out"
+not_found_handling = "404-page"
