@@ -1,6 +1,12 @@
 import HomeView from '@/components/HomeView';
-import { getAllFields, getLastUpdated } from '@/lib/data';
+import { getAllFields, getAllUpdates, getLastUpdated } from '@/lib/data';
 
 export default function HomePage() {
-  return <HomeView fields={getAllFields()} lastUpdated={getLastUpdated()} />;
+  return (
+    <HomeView
+      fields={getAllFields()}
+      updates={getAllUpdates()}
+      lastUpdated={getLastUpdated()}
+    />
+  );
 }

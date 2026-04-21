@@ -2,16 +2,18 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "airsoft-field-map",
+      "name": "airsoft-field-info",
       "runtimeExecutable": "/Users/issei/.local/node/bin/npm",
-      "runtimeArgs": ["run", "dev"],
-      "port": 3000
+      "runtimeArgs": ["run", "dev", "--", "-p", "3100"],
+      "port": 3100,
+      "cwd": "/Users/issei/Desktop/claude_DIVE_web/airsoft-field-info"
     },
     {
-      "name": "airsoft-field-map-prod",
+      "name": "airsoft-field-info-prod",
       "runtimeExecutable": "/Users/issei/.local/node/bin/npx",
-      "runtimeArgs": ["serve", "out", "-p", "3001"],
-      "port": 3001
+      "runtimeArgs": ["serve", "out", "-p", "3101"],
+      "port": 3101,
+      "cwd": "/Users/issei/Desktop/claude_DIVE_web/airsoft-field-info"
     }
   ]
 }

@@ -17,6 +17,10 @@ export function getUpdate(id: string) {
   return updatesFile.updates[id];
 }
 
+export function getAllUpdates() {
+  return updatesFile.updates;
+}
+
 export function getLastUpdated(): string {
   return updatesFile.last_updated;
 }

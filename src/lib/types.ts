@@ -16,12 +16,14 @@ export interface Field {
   address: string;
   type: FieldType;
   official_url: string | null;
+  events_url: string | null;
   reservation_url: string | null;
   twitter_x: string | null;
   size_sqm: number | null;
   lat: number | null;
   lng: number | null;
   notes: string;
+  gallery_urls: string[];
 }
 
 export interface FieldsFile {
