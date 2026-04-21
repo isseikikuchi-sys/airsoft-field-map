@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "geocode": "tsx scripts/geocode.ts",
+    "sync": "tsx scripts/sync-fields.ts",
+    "export-csv": "tsx scripts/export-csv.ts",
     "update": "tsx scripts/update.ts",
     "update:weather": "tsx scripts/update.ts --weather-only"
   },

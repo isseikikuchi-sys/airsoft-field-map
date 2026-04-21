@@ -133,7 +133,7 @@ async function fetchWeather(lat: number, lng: number): Promise<WeatherDay[]> {
     'weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max'
   );
   url.searchParams.set('timezone', 'Asia/Tokyo');
-  url.searchParams.set('forecast_days', '7');
+  url.searchParams.set('forecast_days', '8');
   const res = await fetch(url, { signal: AbortSignal.timeout(15_000) });
   if (!res.ok) throw new Error(`weather HTTP ${res.status}`);
   const j = (await res.json()) as {
@@ -200,21 +200,32 @@ async function updateOne(field: Field, prev: FieldUpdate | undefined): Promise<F
     return base;
   }
 
-  // Site scraping + Claude parsing
-  if (!field.official_url) {
-    base.fetch_error = 'no official_url';
+  // Site scraping + Claude parsing. Prefer events_url for schedule, use official_url for cover images.
+  const eventsSource = field.events_url || field.official_url;
+  if (!eventsSource) {
+    base.fetch_error = 'no events_url or official_url';
     return base;
   }
   try {
-    const html = await fetchHtml(field.official_url);
-    const { text, images } = extractTextAndImages(html, field.official_url);
-    base.image_urls = images;
+    // Cover images: pull from official_url (usually the storefront / top page)
+    if (field.official_url) {
+      try {
+        const html = await fetchHtml(field.official_url);
+        const { images } = extractTextAndImages(html, field.official_url);
+        base.image_urls = images;
+      } catch (e) {
+        console.warn(`[${field.id}] images: ${(e as Error).message}`);
+      }
+    }
+    // Schedule: pull from events_url (falls back to official_url via eventsSource)
+    const html = await fetchHtml(eventsSource);
+    const { text } = extractTextAndImages(html, eventsSource);
     const { upcoming, cancellations, news } = await extractFromPage(field, text);
     base.upcoming_schedule = upcoming;
     base.recent_cancellations = cancellations;
     base.latest_news = news;
     base.fetch_ok = true;
-    console.log(`[${field.id}] OK (${upcoming.length} upcoming, ${images.length} imgs)`);
+    console.log(`[${field.id}] OK (${upcoming.length} upcoming, ${base.image_urls.length} imgs)`);
   } catch (e) {
     base.fetch_error = (e as Error).message;
     console.warn(`[${field.id}] FAIL: ${base.fetch_error}`);

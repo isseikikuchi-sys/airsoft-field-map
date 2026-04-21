@@ -1,4 +1,4 @@
-name: Daily Update & Deploy
+name: Daily Sync + Update + Deploy
 
 on:
   schedule:
@@ -9,11 +9,11 @@ on:
       mode:
         description: '更新モード'
         type: choice
-        options: [full, weather-only]
+        options: [full, weather-only, sync-only]
         default: full
 
 jobs:
-  update-and-deploy:
+  sync-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -28,7 +28,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run updater
+      - name: Sync fields from spreadsheet
+        env:
+          FIELDS_CSV_URL: ${{ secrets.FIELDS_CSV_URL }}
+        run: npm run sync
+
+      - name: Run weather/schedule updater
+        if: ${{ inputs.mode != 'sync-only' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: claude-sonnet-4-6
@@ -39,17 +45,17 @@ jobs:
             npm run update
           fi
 
-      - name: Commit updated data
+      - name: Commit synced data
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet data/updates.json; then
+          git add data/fields.json data/updates.json 2>/dev/null || true
+          if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No data changes."
           else
-            git add data/updates.json
-            git commit -m "chore(data): daily update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "chore(data): sync $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
