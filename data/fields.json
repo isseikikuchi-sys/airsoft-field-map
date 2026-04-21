@@ -1,7 +1,7 @@
 {
   "_meta": {
     "note": "Synced from Google Sheet. Edit the sheet, not this file.",
-    "last_updated": "2026-04-21T17:07:10.699Z",
+    "last_updated": "2026-04-21T23:24:04.854Z",
     "schema_version": 2
   },
   "fields": [
@@ -1057,6 +1057,23 @@
       "lat": 35.602875,
       "lng": 140.4134292,
       "notes": "飛び入り歓迎。定例会は予約8名以上で開催。",
+      "gallery_urls": []
+    },
+    {
+      "id": "field-194qfxb",
+      "name": "サバゲーパーク",
+      "prefecture": "千葉県",
+      "region": "関東",
+      "address": "〒270-1337 千葉県印西市草深258-1",
+      "type": "アウトドア市街地（CQB）",
+      "official_url": "https://www.tokyosabagepark.jp/",
+      "events_url": "https://www.tokyosabagepark.jp/calendar.php",
+      "reservation_url": "https://www.tokyosabagepark.jp/calendar.php",
+      "twitter_x": "https://x.com/tokyosabagepark",
+      "size_sqm": null,
+      "lat": null,
+      "lng": null,
+      "notes": "飛び入り歓迎。",
       "gallery_urls": []
     }
   ]
