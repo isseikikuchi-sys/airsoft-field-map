@@ -1,7 +1,7 @@
 {
   "_meta": {
     "note": "Synced from Google Sheet. Edit the sheet, not this file.",
-    "last_updated": "2026-04-21T23:24:04.854Z",
+    "last_updated": "2026-04-23T00:05:27.379Z",
     "schema_version": 2
   },
   "fields": [
@@ -1047,17 +1047,19 @@
       "name": "サバゲーパラダイス",
       "prefecture": "千葉県",
       "region": "関東",
-      "address": "千葉県山武市大木470-1",
+      "address": "〒289-1211 千葉県山武市大木４７０−１",
       "type": "アウトドア森林",
       "official_url": "https://survivalgameparadise.com/",
       "events_url": "https://survivalgameparadise.com/kashikiriyoyaku.html",
       "reservation_url": "https://survivalgameparadise.com/teireikaiyoyaku.html",
       "twitter_x": "https://twitter.com/Saba_Para",
       "size_sqm": null,
-      "lat": 35.602875,
-      "lng": 140.4134292,
+      "lat": null,
+      "lng": null,
       "notes": "飛び入り歓迎。定例会は予約8名以上で開催。",
-      "gallery_urls": []
+      "gallery_urls": [
+        "https://drive.google.com/drive/folders/1kJ_0n2Fgq4hAEuD_-Jom5eOzKpnLgd9k?usp=sharing"
+      ]
     },
     {
       "id": "field-194qfxb",
@@ -1074,6 +1076,23 @@
       "lat": null,
       "lng": null,
       "notes": "飛び入り歓迎。",
+      "gallery_urls": []
+    },
+    {
+      "id": "heads",
+      "name": "H.E.A.D.S 川越",
+      "prefecture": "埼玉県",
+      "region": "関東",
+      "address": "〒350-1101 埼玉県川越市大字的場字池辺通り3531",
+      "type": "その他",
+      "official_url": "https://heads-kawagoe.jp//",
+      "events_url": "https://heads-kawagoe.jp/",
+      "reservation_url": "https://heads-kawagoe.jp/reserve//",
+      "twitter_x": "https://x.com/HEADS_Kawagoee",
+      "size_sqm": null,
+      "lat": null,
+      "lng": null,
+      "notes": "",
       "gallery_urls": []
     }
   ]
