@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-13T02:00:46.244Z",
+  "last_updated": "2026-11-14T01:36:10.435Z",
   "updates": {
     "asobiba-akihabara": {
       "field_id": "asobiba-akihabara",
-      "fetched_at": "2026-11-13T02:00:22.237Z",
+      "fetched_at": "2026-11-14T01:33:20.924Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -79,7 +79,7 @@
     },
     "asobiba-ikebukuro": {
       "field_id": "asobiba-ikebukuro",
-      "fetched_at": "2026-11-13T02:00:22.265Z",
+      "fetched_at": "2026-11-14T01:33:20.959Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -155,7 +155,7 @@
     },
     "bravepoint-ikebukuro": {
       "field_id": "bravepoint-ikebukuro",
-      "fetched_at": "2026-11-13T02:00:22.266Z",
+      "fetched_at": "2026-11-14T01:33:20.960Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -231,7 +231,7 @@
     },
     "brickfield-tokyo": {
       "field_id": "brickfield-tokyo",
-      "fetched_at": "2026-11-13T02:00:22.267Z",
+      "fetched_at": "2026-11-14T01:33:20.961Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -307,7 +307,7 @@
     },
     "splash-shinkiba": {
       "field_id": "splash-shinkiba",
-      "fetched_at": "2026-11-13T02:00:22.543Z",
+      "fetched_at": "2026-11-14T01:33:31.574Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -383,7 +383,7 @@
     },
     "novarena": {
       "field_id": "novarena",
-      "fetched_at": "2026-11-13T02:00:22.573Z",
+      "fetched_at": "2026-11-14T01:33:31.607Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -459,7 +459,7 @@
     },
     "savage-shinkiba": {
       "field_id": "savage-shinkiba",
-      "fetched_at": "2026-11-13T02:00:22.585Z",
+      "fetched_at": "2026-11-14T01:33:31.616Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -535,7 +535,7 @@
     },
     "seals-machida": {
       "field_id": "seals-machida",
-      "fetched_at": "2026-11-13T02:00:22.784Z",
+      "fetched_at": "2026-11-14T01:33:31.644Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -611,7 +611,7 @@
     },
     "headshot-sagamiko": {
       "field_id": "headshot-sagamiko",
-      "fetched_at": "2026-11-13T02:00:22.898Z",
+      "fetched_at": "2026-11-14T01:33:42.038Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -687,7 +687,7 @@
     },
     "desert-union": {
       "field_id": "desert-union",
-      "fetched_at": "2026-11-13T02:00:22.946Z",
+      "fetched_at": "2026-11-14T01:33:42.099Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -763,7 +763,7 @@
     },
     "sgf-union": {
       "field_id": "sgf-union",
-      "fetched_at": "2026-11-13T02:00:22.985Z",
+      "fetched_at": "2026-11-14T01:33:42.120Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -839,7 +839,7 @@
     },
     "hooah": {
       "field_id": "hooah",
-      "fetched_at": "2026-11-13T02:00:23.045Z",
+      "fetched_at": "2026-11-14T01:33:42.250Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -915,7 +915,7 @@
     },
     "no9": {
       "field_id": "no9",
-      "fetched_at": "2026-11-13T02:00:23.084Z",
+      "fetched_at": "2026-11-14T01:33:52.716Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -991,7 +991,7 @@
     },
     "camp-desert": {
       "field_id": "camp-desert",
-      "fetched_at": "2026-11-13T02:00:23.324Z",
+      "fetched_at": "2026-11-14T01:33:52.774Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1067,7 +1067,7 @@
     },
     "sg-block": {
       "field_id": "sg-block",
-      "fetched_at": "2026-11-13T02:00:23.391Z",
+      "fetched_at": "2026-11-14T01:33:52.801Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1143,7 +1143,7 @@
     },
     "outback-atsugi": {
       "field_id": "outback-atsugi",
-      "fetched_at": "2026-11-13T02:00:23.407Z",
+      "fetched_at": "2026-11-14T01:33:53.127Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1219,7 +1219,7 @@
     },
     "bush": {
       "field_id": "bush",
-      "fetched_at": "2026-11-13T02:00:23.515Z",
+      "fetched_at": "2026-11-14T01:34:03.060Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1295,7 +1295,7 @@
     },
     "vfc-field": {
       "field_id": "vfc-field",
-      "fetched_at": "2026-11-13T02:00:23.535Z",
+      "fetched_at": "2026-11-14T01:34:03.080Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1371,7 +1371,7 @@
     },
     "sgf-desert-saitama": {
       "field_id": "sgf-desert-saitama",
-      "fetched_at": "2026-11-13T02:00:23.560Z",
+      "fetched_at": "2026-11-14T01:34:03.099Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1447,7 +1447,7 @@
     },
     "ops-saitama": {
       "field_id": "ops-saitama",
-      "fetched_at": "2026-11-13T02:00:23.667Z",
+      "fetched_at": "2026-11-14T01:34:03.536Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1523,7 +1523,7 @@
     },
     "sgf-nap": {
       "field_id": "sgf-nap",
-      "fetched_at": "2026-11-13T02:00:23.697Z",
+      "fetched_at": "2026-11-14T01:34:13.547Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1599,7 +1599,7 @@
     },
     "bbjack": {
       "field_id": "bbjack",
-      "fetched_at": "2026-11-13T02:00:23.720Z",
+      "fetched_at": "2026-11-14T01:34:13.587Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1675,7 +1675,7 @@
     },
     "mars-tokigawa": {
       "field_id": "mars-tokigawa",
-      "fetched_at": "2026-11-13T02:00:23.735Z",
+      "fetched_at": "2026-11-14T01:34:13.596Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1751,7 +1751,7 @@
     },
     "bigtec": {
       "field_id": "bigtec",
-      "fetched_at": "2026-11-13T02:00:23.827Z",
+      "fetched_at": "2026-11-14T01:34:14.158Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1827,7 +1827,7 @@
     },
     "ope0326": {
       "field_id": "ope0326",
-      "fetched_at": "2026-11-13T02:00:23.896Z",
+      "fetched_at": "2026-11-14T01:34:24.089Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1903,7 +1903,7 @@
     },
     "sg-ikusa": {
       "field_id": "sg-ikusa",
-      "fetched_at": "2026-11-13T02:00:23.939Z",
+      "fetched_at": "2026-11-14T01:34:24.094Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -1979,7 +1979,7 @@
     },
     "battle-city-chiba": {
       "field_id": "battle-city-chiba",
-      "fetched_at": "2026-11-13T02:00:24.049Z",
+      "fetched_at": "2026-11-14T01:34:24.201Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2055,7 +2055,7 @@
     },
     "hound": {
       "field_id": "hound",
-      "fetched_at": "2026-11-13T02:00:24.053Z",
+      "fetched_at": "2026-11-14T01:34:24.524Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2131,7 +2131,7 @@
     },
     "blam-chiba": {
       "field_id": "blam-chiba",
-      "fetched_at": "2026-11-13T02:00:24.094Z",
+      "fetched_at": "2026-11-14T01:34:34.570Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2207,9 +2207,9 @@
     },
     "oasis-chiba": {
       "field_id": "oasis-chiba",
-      "fetched_at": "2026-11-13T02:00:24.215Z",
+      "fetched_at": "2026-11-14T01:34:34.604Z",
       "fetch_ok": false,
-      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgz6r8F5SgvLc8EjA2MNG\"}",
+      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1xhZNVj495PSc5V5Nyb\"}",
       "upcoming_schedule": [
         {
           "date": "2026-08-02",
@@ -2311,7 +2311,7 @@
     },
     "forests-chiba": {
       "field_id": "forests-chiba",
-      "fetched_at": "2026-11-13T02:00:24.256Z",
+      "fetched_at": "2026-11-14T01:34:34.644Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2387,7 +2387,7 @@
     },
     "fab-chiba": {
       "field_id": "fab-chiba",
-      "fetched_at": "2026-11-13T02:00:24.365Z",
+      "fetched_at": "2026-11-14T01:34:35.011Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2463,7 +2463,7 @@
     },
     "tryst": {
       "field_id": "tryst",
-      "fetched_at": "2026-11-13T02:00:24.418Z",
+      "fetched_at": "2026-11-14T01:34:45.028Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2539,7 +2539,7 @@
     },
     "battle-country": {
       "field_id": "battle-country",
-      "fetched_at": "2026-11-13T02:00:24.462Z",
+      "fetched_at": "2026-11-14T01:34:45.060Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2615,7 +2615,7 @@
     },
     "area-inashiki": {
       "field_id": "area-inashiki",
-      "fetched_at": "2026-11-13T02:00:24.522Z",
+      "fetched_at": "2026-11-14T01:34:45.527Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2691,7 +2691,7 @@
     },
     "splush-ami": {
       "field_id": "splush-ami",
-      "fetched_at": "2026-11-13T02:00:24.593Z",
+      "fetched_at": "2026-11-14T01:34:46.220Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2767,7 +2767,7 @@
     },
     "asylum-ryugasaki": {
       "field_id": "asylum-ryugasaki",
-      "fetched_at": "2026-11-13T02:00:24.750Z",
+      "fetched_at": "2026-11-14T01:34:55.518Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2843,7 +2843,7 @@
     },
     "capture-sakura": {
       "field_id": "capture-sakura",
-      "fetched_at": "2026-11-13T02:00:24.768Z",
+      "fetched_at": "2026-11-14T01:34:55.842Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2919,7 +2919,7 @@
     },
     "heat-tochigi": {
       "field_id": "heat-tochigi",
-      "fetched_at": "2026-11-13T02:00:24.884Z",
+      "fetched_at": "2026-11-14T01:34:55.995Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -2995,9 +2995,9 @@
     },
     "battle-factory": {
       "field_id": "battle-factory",
-      "fetched_at": "2026-11-13T02:00:24.890Z",
+      "fetched_at": "2026-11-14T01:34:56.508Z",
       "fetch_ok": false,
-      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgz6r7zSrpU6rAmQYfBez\"}",
+      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1xj8PdhujRaZjuckCND\"}",
       "upcoming_schedule": [],
       "recent_cancellations": [],
       "latest_news": null,
@@ -3073,7 +3073,7 @@
     },
     "battle-zone-ota": {
       "field_id": "battle-zone-ota",
-      "fetched_at": "2026-11-13T02:00:25.043Z",
+      "fetched_at": "2026-11-14T01:35:05.993Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3149,7 +3149,7 @@
     },
     "valor-takasaki": {
       "field_id": "valor-takasaki",
-      "fetched_at": "2026-11-13T02:00:25.128Z",
+      "fetched_at": "2026-11-14T01:35:06.007Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3225,9 +3225,9 @@
     },
     "hills-maebashi": {
       "field_id": "hills-maebashi",
-      "fetched_at": "2026-11-13T02:00:25.278Z",
+      "fetched_at": "2026-11-14T01:35:06.502Z",
       "fetch_ok": false,
-      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgz6rEz8rrpskDoXW4f6Z\"}",
+      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1xjxijyhTuVSS778Xmu\"}",
       "upcoming_schedule": [],
       "recent_cancellations": [],
       "latest_news": "2026年7月10日にグラス商品の価格改定が告知されました。また、焚き火台サイドテーブル「DANBO」の商品仕様に関するお詫びとお知らせが2026年6月30日に公開されています。",
@@ -3310,7 +3310,7 @@
     },
     "neos-sapporo": {
       "field_id": "neos-sapporo",
-      "fetched_at": "2026-11-13T02:00:25.322Z",
+      "fetched_at": "2026-11-14T01:35:07.427Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3386,7 +3386,7 @@
     },
     "desperado-ebetsu": {
       "field_id": "desperado-ebetsu",
-      "fetched_at": "2026-11-13T02:00:25.524Z",
+      "fetched_at": "2026-11-14T01:35:16.499Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3462,7 +3462,7 @@
     },
     "heat-ishikari": {
       "field_id": "heat-ishikari",
-      "fetched_at": "2026-11-13T02:00:25.642Z",
+      "fetched_at": "2026-11-14T01:35:16.607Z",
       "fetch_ok": false,
       "fetch_error": "no events_url or official_url",
       "upcoming_schedule": [],
@@ -3538,7 +3538,7 @@
     },
     "agito-aomori": {
       "field_id": "agito-aomori",
-      "fetched_at": "2026-11-13T02:00:25.653Z",
+      "fetched_at": "2026-11-14T01:35:17.972Z",
       "fetch_ok": false,
       "fetch_error": "no events_url or official_url",
       "upcoming_schedule": [],
@@ -3614,7 +3614,7 @@
     },
     "pro-g-morioka": {
       "field_id": "pro-g-morioka",
-      "fetched_at": "2026-11-13T02:00:25.674Z",
+      "fetched_at": "2026-11-14T01:35:18.725Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3690,7 +3690,7 @@
     },
     "daytona-sendai": {
       "field_id": "daytona-sendai",
-      "fetched_at": "2026-11-13T02:00:25.688Z",
+      "fetched_at": "2026-11-14T01:35:26.863Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3766,7 +3766,7 @@
     },
     "seals-sendai": {
       "field_id": "seals-sendai",
-      "fetched_at": "2026-11-13T02:00:25.744Z",
+      "fetched_at": "2026-11-14T01:35:26.960Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3842,7 +3842,7 @@
     },
     "desert-union-fukushima": {
       "field_id": "desert-union-fukushima",
-      "fetched_at": "2026-11-13T02:00:25.943Z",
+      "fetched_at": "2026-11-14T01:35:28.361Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3918,7 +3918,7 @@
     },
     "ventura-hokuto": {
       "field_id": "ventura-hokuto",
-      "fetched_at": "2026-11-13T02:00:26.094Z",
+      "fetched_at": "2026-11-14T01:35:37.439Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -3994,7 +3994,7 @@
     },
     "delta-force-fujinomiya": {
       "field_id": "delta-force-fujinomiya",
-      "fetched_at": "2026-11-13T02:00:26.216Z",
+      "fetched_at": "2026-11-14T01:35:38.126Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4070,7 +4070,7 @@
     },
     "bravo-point-takashima": {
       "field_id": "bravo-point-takashima",
-      "fetched_at": "2026-11-13T02:00:26.484Z",
+      "fetched_at": "2026-11-14T01:35:38.980Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4146,7 +4146,7 @@
     },
     "asobiba-osaka": {
       "field_id": "asobiba-osaka",
-      "fetched_at": "2026-11-13T02:00:26.659Z",
+      "fetched_at": "2026-11-14T01:35:47.986Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4222,7 +4222,7 @@
     },
     "headshot-hyogo": {
       "field_id": "headshot-hyogo",
-      "fetched_at": "2026-11-13T02:00:26.660Z",
+      "fetched_at": "2026-11-14T01:35:48.490Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4298,7 +4298,7 @@
     },
     "madbull-hiroshima": {
       "field_id": "madbull-hiroshima",
-      "fetched_at": "2026-11-13T02:00:26.753Z",
+      "fetched_at": "2026-11-14T01:35:49.481Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4374,7 +4374,7 @@
     },
     "gunship-okayama": {
       "field_id": "gunship-okayama",
-      "fetched_at": "2026-11-13T02:00:26.789Z",
+      "fetched_at": "2026-11-14T01:35:49.839Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4450,7 +4450,7 @@
     },
     "hell-fukuoka": {
       "field_id": "hell-fukuoka",
-      "fetched_at": "2026-11-13T02:00:26.908Z",
+      "fetched_at": "2026-11-14T01:35:58.403Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4526,7 +4526,7 @@
     },
     "break-fukuoka": {
       "field_id": "break-fukuoka",
-      "fetched_at": "2026-11-13T02:00:26.937Z",
+      "fetched_at": "2026-11-14T01:35:58.954Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4602,7 +4602,7 @@
     },
     "kingcharan-toyota": {
       "field_id": "kingcharan-toyota",
-      "fetched_at": "2026-11-13T02:00:27.073Z",
+      "fetched_at": "2026-11-14T01:35:59.913Z",
       "fetch_ok": false,
       "fetch_error": "fetch failed",
       "upcoming_schedule": [],
@@ -4678,9 +4678,9 @@
     },
     "sabage-paradise": {
       "field_id": "sabage-paradise",
-      "fetched_at": "2026-11-13T02:00:27.137Z",
+      "fetched_at": "2026-11-14T01:36:00.429Z",
       "fetch_ok": false,
-      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgz6rMgi3MPc6sqXbDyM7\"}",
+      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1xoAUG563VGBHvrXqsw\"}",
       "upcoming_schedule": [],
       "recent_cancellations": [],
       "latest_news": null,
@@ -4763,7 +4763,7 @@
     },
     "field-194qfxb": {
       "field_id": "field-194qfxb",
-      "fetched_at": "2026-11-13T02:00:27.189Z",
+      "fetched_at": "2026-11-14T01:36:02.187Z",
       "fetch_ok": false,
       "fetch_error": "HTTP 503",
       "upcoming_schedule": [
@@ -4808,9 +4808,9 @@
     },
     "heads": {
       "field_id": "heads",
-      "fetched_at": "2026-11-13T02:00:27.203Z",
+      "fetched_at": "2026-11-14T01:36:03.823Z",
       "fetch_ok": false,
-      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgz6rWyoirM7UsDNVQ6KZ\"}",
+      "fetch_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1xoWqcv3mJHimbfouY4\"}",
       "upcoming_schedule": [
         {
           "date": "2026-09-20",
